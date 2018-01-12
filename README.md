@@ -1,4 +1,5 @@
-#DS100 Spring 2018 Course Repository
+DS100 Spring 2018 Course Repository
+====================================
 
 This repo contains course information and public-facing assignments for DS100 Sp18. 
 
