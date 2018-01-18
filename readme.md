@@ -1,8 +1,12 @@
-DS100 Spring 2018 Course Repository
-====================================
+# How to use jekyll
 
-This repo contains course information and public-facing assignments for DS100 Sp18. 
+```bash
+brew install ruby
+bundle install
+bundle exec jekyll serve --baseurl ''
+```
 
-The `master` branch contains course materials such as homeworks, labs, discussions and projects. These files are located in the `assignments/` folder. 
+Then, open [`localhost:4000`](http://localhost:4000) in your browser.
 
-The `gh-pages` branch contains the course website. 
+
+The syllabus is maintained in `_data/lectures.yml` and the announcements are contained in `_data/announcements.yml`.
