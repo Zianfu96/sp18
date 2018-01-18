@@ -42,10 +42,9 @@
       url: https://drive.google.com/file/d/17jduAdN7IuRJeU1_a-aXyaHcIWamKrzk/view?usp=sharing
     - name: optional reading (Data Science and Science)
       url: http://www.pnas.org/content/114/33/8689.full.pdf
+    - name: screencast
+      url: https://www.youtube.com/watch?v=7tg0UbslRQY
   
-
-
-
 
   # # assignment: |
   #   [Homework 1 Released: Python Refresher](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/hw1.zip)
