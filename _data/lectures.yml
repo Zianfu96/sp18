@@ -55,7 +55,7 @@
   description: |
     Fundamentally, (data) science is the study of using data to learn about the world and solve problems.  However, how and what data is collected can have a profound impact on what we can learn and the problems we can solve. In this lecture, we will begin to explore various mechanisms for data collection and their implications on our ability to generalize.  In particular we will discuss differences between census, surveys, controlled experiments, and observational studies. We will highlight the power of simple randomization and the fallacies of data scale.
 
-  # links:
+  links:
   #   - name: pptx
   #     url: https://drive.google.com/open?id=0B7gkaDYGT5X5Qkl1MkFCMVFjZHM
   #   - name: pdf
@@ -66,8 +66,8 @@
   #     url: https://drive.google.com/open?id=0B7gkaDYGT5X5Y1RqMG12TU1wMlU
   #   - name: random sampling notes (typed)
   #     url: assets/notes/2.pdf
-  #   - name: screencast
-  #     url: https://www.youtube.com/watch?v=eKsn-6ssC-w
+    - name: screencast
+      url: https://www.youtube.com/watch?v=uFY71pYEcVc
 
 - date: 1/23/2018
   topic: Data Maniuplation using Pandas
