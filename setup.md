@@ -39,7 +39,7 @@ description: "Instructions to set up your data science environment."
 2. Download and install [Anaconda](https://www.anaconda.com/what-is-anaconda/):
 
         # Uses curl to download the installation script
-        curl https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh > miniconda.sh
+        curl https://repo.continuum.io/miniconda/Miniconda3-4.3.31-Linux-x86_64.sh  > miniconda.sh
 
         # Run the miniconda installer (you will need to enter your password)
         bash miniconda.sh
@@ -99,7 +99,7 @@ For other distributions of Linux, substitute the available package manager.
 
 3. Download the Anaconda installation script:
 
-        wget -O install_anaconda.sh https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
+        wget -O install_anaconda.sh https://repo.continuum.io/miniconda/Miniconda3-4.3.31-Linux-x86_64.sh 
 
 
 4. Install Anaconda:
