@@ -7,7 +7,7 @@ We will be posting all lecture materials on the course syllabus.  In addition, t
 
 Here is a collection of resources that will help you learn more about various concepts and skills covered in the class.  Learning by reading is a key part of being a well rounded data scientist.  We will not assign mandatory reading but instead encourage you to look at these _and other_ materials.  If you find something helpful, post it on Piazza, and consider contributing it to the course website.
 
-You can send us changes to the course website by [forking](https://help.github.com/articles/fork-a-repo/) and sending a [pull request](https://help.github.com/articles/about-pull-requests/) to the [course website github repository](https://github.com/DS-100/fa17).  You will then become part of the history of the DS100 class at Berkeley.
+You can send us changes to the course website by [forking](https://help.github.com/articles/fork-a-repo/) and sending a [pull request](https://help.github.com/articles/about-pull-requests/) to the [course website github repository](https://github.com/DS-100/sp18).  You will then become part of the history of the DS100 class at Berkeley.
 
 ## Web References
 
