@@ -1,35 +1,25 @@
 {% assign lecture_counter = 1 %}
 
 {% for lecture in site.data.lectures %}
-  
-  <!-- {% assign is_week_begin = lecture_counter  | modulo: 2 %} -->
-  
-  {% assign is_week_begin = lecture_counter | plus: 1 | modulo: 2 %} 
- 
+  {% assign is_week_begin = lecture_counter | plus: 1 | modulo: 2 %}
+  {% assign week = lecture_counter | divided_by: 2.0 | ceil %}
+
+  {% comment %}
+  {% assign is_week_begin = lecture_counter | modulo: 2 %}
   {% assign week = lecture_counter | plus: 1 | divided_by: 2.0 | ceil %}
+  {% endcomment %}
+
 
   <tr class="lecture"
       data-lecture-week="{{ week }}"
       data-lecture-date="{{ lecture.date }}">
-    <!--
-    Need a special case for the first week since there's only one lecture
 
-    {% if lecture_counter == 1 %}
-      <td class="lecture__week" id="lecture-week-{{week}}">
-        {{ week }}
-      </td>
-    {% elsif is_week_begin == 1 && lecture_counter != 1 %}
-      <td class="lecture__week" id="lecture-week-{{week}}" rowspan="2">
-        {{ week }}
-      </td>
-    {% endif %} 
-  -->
     {% if is_week_begin == 0 %}
       <td class="lecture__week" id="lecture-week-{{week}}" rowspan="2">
         {{ week }}
       </td>
-    {% endif %} 
-  
+    {% endif %}
+
 
     <th class="lecture__num">
       {{ lecture_counter }}
@@ -44,6 +34,18 @@
       </h3>
 
       {{ lecture.description | markdownify }}
+
+      {% if lecture.textbook %}
+      <p class="lecture__textbook"><strong>
+        Textbook:
+        {% for entry in lecture.textbook %}
+          <a href="{{ entry.url }}">{{ entry.chapter }}</a>
+          {% if entry != lecture.textbook.last %}
+            ,
+          {% endif %}
+        {% endfor %}
+      </strong></p>
+      {% endif %}
 
       {% if lecture.links %}
       <p>
