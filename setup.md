@@ -44,6 +44,8 @@ description: "Instructions to set up your data science environment."
         # Run the miniconda installer (you will need to enter your password)
         bash miniconda.sh
 
+3. Close and restart your terminal.
+
    Ensure the installation worked by running `conda --version`.
 
 You may remove the `miniconda.sh` script now if you'd like since it's
@@ -105,6 +107,8 @@ For other distributions of Linux, substitute the available package manager.
 4. Install Anaconda:
 
         bash install_anaconda.sh
+
+5. Close and restart your terminal.
 
    Ensure the installation worked by running `conda --version`.
 
