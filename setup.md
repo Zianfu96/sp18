@@ -119,7 +119,13 @@ You may remove the `install_anaconda.sh` script now if you'd like since it's qui
 
 These instructions are the same for OSX, Windows, and Linux.
 
-1. Download the data100 [`environment.yml`](https://raw.githubusercontent.com/DS-100/sp18/gh-pages/environment.yml) from the course repository.
+1. Download the data100 [`environment.yml`](https://raw.githubusercontent.com/DS-100/sp18/gh-pages/environment.yml) from the course repository. Click the provided link or:
+
+        # download via curl
+        curl https://raw.githubusercontent.com/DS-100/sp18/gh-pages/environment.yml > environment.yml
+
+        # OR download via wget
+        wget -O environment.yml https://raw.githubusercontent.com/DS-100/sp18/gh-pages/environment.yml
 
 This [YAML](https://en.wikipedia.org/wiki/YAML) file is what we use to specify the dependencies and packages (and their versions) we wish to install into the [conda environment][env] we will make for this class. This ensures everyone in the course is using the same package versions which prevents inconsistent behavior between different versions.
 
