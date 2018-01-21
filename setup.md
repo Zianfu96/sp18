@@ -119,7 +119,7 @@ You may remove the `install_anaconda.sh` script now if you'd like since it's qui
 
 These instructions are the same for OSX, Windows, and Linux.
 
-1. Download the data100 [`environment.yml`](https://raw.githubusercontent.com/DS-100/sp18/gh-pages/environment.yml) from the course repository. Click the provided link or:
+1. Download the data100 [`environment.yml`](https://raw.githubusercontent.com/DS-100/sp18/gh-pages/environment.yml) from the course repository [here](https://raw.githubusercontent.com/DS-100/sp18/gh-pages/environment.yml) or:
 
         # download via curl
         curl https://raw.githubusercontent.com/DS-100/sp18/gh-pages/environment.yml > environment.yml
