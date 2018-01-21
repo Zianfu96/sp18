@@ -3,7 +3,13 @@ layout: page
 title: "Materials"
 description: "Labs and Discussion Notebooks"
 ---
+
+Links coming soon! 
+
+<!-- 
 ## Labs
+
+
 [Lab 2: Pandas Overview](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/lab02.zip)
 
 [Lab 3: Data Cleaning and Seaborn](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/lab03.zip)
@@ -53,7 +59,7 @@ description: "Labs and Discussion Notebooks"
 
 [Discussion 10: Linear Algebra and Gradient Review](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/disc10.zip)
 
-[Discussion 12: Precision/Recall and Logistic Regression](https://docs.google.com/a/berkeley.edu/presentation/d/1cR5pVL16wHx3V8FaGrnpWX4HJst2Ibacpco6P1ZxFFY/edit?usp=sharing)
+[Discussion 12: Precision/Recall and Logistic Regression](https://docs.google.com/a/berkeley.edu/presentation/d/1cR5pVL16wHx3V8FaGrnpWX4HJst2Ibacpco6P1ZxFFY/edit?usp=sharing) -->
 
 ## Previous Semester's Materials
 

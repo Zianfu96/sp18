@@ -42,10 +42,10 @@ If you have issues with enrollment contact: <a href="mailto:csconners@cs.berkele
 If you have enrolled in the wait-list please complete the following  <a href="https://goo.gl/forms/Ku5cu7L7cUbSaTKc2">Background Survey</a> we will use this to help in admitting students into the class.  Please sign up for Piazza to follow updates on the wait list.
  -->
 
- ## Office Hours, Section, and Lab Schedule
+## Office Hours, Section, and Lab Schedule
 
 <div class="embed-wrapper">
-  <!--<iframe src="https://calendar.google.com/calendar/embed?src=berkeley.edu_3iothuu50b7vt60vh265urvkgg%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" frameborder="0" scrolling="no"></iframe> -->
+  <!--<iframe src="https://calendar.google.com/calendar/embed?src=berkeley.edu_3iothuu50b7vt60vh265urvkgg%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" frameborder="0" scrolling="no"></iframe>-->
   <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=berkeley.edu_3iothuu50b7vt60vh265urvkgg%40group.calendar.google.com&amp;color=%23B1365F&amp;src=berkeley.edu_q7fe1ocb0v0kdofsf0jb6tnv10%40group.calendar.google.com&amp;color=%231B887A&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
 
@@ -70,7 +70,7 @@ While we are working to make this class widely accessible we currently require t
 
 1. **Computing:** *The Structure and Interpretation of Computer Programs* [**CS61A**](http://cs61a.org) or *Computational Structures in Data Science* [**CS88**](http://cs88-website.github.io).   These courses provide additional background in python programming (e.g., *for loops*, *lambdas*, *debugging*, and *complexity*) that will enable DS100 to focus more on the concepts in Data Science and less on the details of programming in python.
 
-1. **Math:** *Linear Algebra* ([Math 54](https://math.berkeley.edu/~nadler/54fall2015.html) or [EE 16a](http://inst.eecs.berkeley.edu/~ee16a/fa16/)): We will need some basic concepts like linear operators, eigenvectors, derivatives, and integrals to enable statistical inference and derive new prediction algorithms.  This may be satisfied concurrently to DS100.
+1. **Math:** *Linear Algebra* ([Math 54](https://math.berkeley.edu/~nadler/54fall2015.html), [EE 16a](http://inst.eecs.berkeley.edu/~ee16a/fa16/), or [Stat89a](https://www.stat.berkeley.edu/~mmahoney/s18-lads/)): We will need some basic concepts like linear operators, eigenvectors, derivatives, and integrals to enable statistical inference and derive new prediction algorithms.  This may be satisfied concurrently to DS100.
 
 
 <!-- 
