@@ -61,16 +61,14 @@
       url: https://ds100.gitbooks.io/textbook/content/v/v1/ch2/data_generation.html
 
   links:
-  #   - name: pptx
-  #     url: https://drive.google.com/open?id=0B7gkaDYGT5X5Qkl1MkFCMVFjZHM
-  #   - name: pdf
-  #     url: https://drive.google.com/open?id=0B7gkaDYGT5X5NlNGd29lbWgyeGs
-  #   - name: handout
-  #     url: https://drive.google.com/open?id=0B7gkaDYGT5X5RDJXank5T0FYcHc
-  #   - name: random sampling notes
-  #     url: https://drive.google.com/open?id=0B7gkaDYGT5X5Y1RqMG12TU1wMlU
-  #   - name: random sampling notes (typed)
-  #     url: assets/notes/2.pdf
+     - name: pptx
+       url: assets/lectures/lec02/02-data-generation-ds100.pptx
+     - name: pdf
+       url: assets/lectures/lec02/02-data-generation-ds100.pdf
+     - name: handout
+       url: assets/lectures/lec02/02-data-generation-ds100-handout.pdf
+     - name: random sampling notes (typed)
+       url: assets/lectures/lec02/02-prob-samples-notes.pdf
     - name: screencast
       url: https://www.youtube.com/watch?v=uFY71pYEcVc
 
