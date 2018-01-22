@@ -70,7 +70,7 @@ While we are working to make this class widely accessible we currently require t
 1. **Math:** *Linear Algebra* ([Math 54](https://math.berkeley.edu/~nadler/54fall2015.html), [EE 16a](http://inst.eecs.berkeley.edu/~ee16a/fa16/), or [Stat89a](https://www.stat.berkeley.edu/~mmahoney/s18-lads/)): We will need some basic concepts like linear operators, eigenvectors, derivatives, and integrals to enable statistical inference and derive new prediction algorithms.  This may be satisfied concurrently to DS100.
 
 
-<!-- 
+
 
 ## Instructors
 
@@ -87,36 +87,18 @@ While we are working to make this class widely accessible we currently require t
 
   <div class="staff__item">
     <img class="staff__img"
-         src="http://www.stat.berkeley.edu/~nolan/images/Deb-Nolan.jpg"
-         alt="Deborah Nolan" />
+         src="https://statistics.berkeley.edu/sites/default/files/faculty/fperez_headshot_lg.jpg"
+         alt="Fernando Perez" />
     <address>
-      <strong>Deborah Nolan</strong><br>
-      <a href="mailto:nolan@stat.berkeley.edu">nolan@stat.berkeley.edu</a>
+      <strong>Fernando Perez</strong><br>
+      <a href="mailto:Fernando.Perez@berkeley.edu">Fernando.Perez@berkeley.edu</a>
     </address>
   </div>
 </section>
 
+<!-- 
 ## Teaching Assistants
-<section class="staff">
-  <div class="staff__item">
-    <img class="staff__img"
-         src="assets/images/SamLau.jpg"
-         alt="Sam Lau" />
-    <address>
-      <strong>Sam Lau</strong><br>
-      <a href="mailto:samlau95@berkeley.edu">samlau95@berkeley.edu</a>
-    </address>
-  </div>
 
-  <div class="staff__item">
-    <img class="staff__img"
-         src="assets/images/XinWang.jpg"
-         alt="Xin Wang" />
-    <address>
-      <strong>Xin Wang</strong><br>
-      <a href="mailto:xinw@berkeley.edu">xinw@berkeley.edu</a>
-    </address>
-  </div>
 
   <div class="staff__item">
     <img class="staff__img"
@@ -158,14 +140,5 @@ While we are working to make this class widely accessible we currently require t
     </address>
   </div>
 
-  <div class="staff__item">
-    <img class="staff__img"
-         src="assets/images/DimaLituiev.jpg"
-         alt="Dima Lituiev" />
-    <address>
-      <strong>Dima Lituiev (UCSF)</strong><br>
-      <a href="mailto:d.lituiev@gmail.com">d.lituiev@gmail.com</a>
-    </address>
-  </div>
 
 </section> -->
