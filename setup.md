@@ -206,6 +206,6 @@ outputs a list of all your conda environments, and `data100` should appear with 
 
 ## Working on JupyterHub
 
-You have the option of working on your assignments in our hosted JupyterHub environment. If you are working on a Chromebook, this is what you will use throughout the course entirely. The Data 100 JupyterHub can be accessed at [http://data100.datahub.berkeley.edu](data100.datahub.berkeley.edu).
+You have the option of working on your assignments in our hosted JupyterHub environment. If you are working on a Chromebook, this is what you will use throughout the course entirely. The Data 100 JupyterHub can be accessed at [http://data100.datahub.berkeley.edu](http://data100.datahub.berkeley.edu).
 
 From within the JupyterHub, you can edit and execute notebooks in the same environment that you installed above. If you choose to complete assignments locally (outside of JupyterHub), they will still need to be uploaded to JupyterHub for submission.
