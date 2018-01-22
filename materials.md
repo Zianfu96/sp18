@@ -4,7 +4,8 @@ title: "Materials"
 description: "Labs and Discussion Notebooks"
 ---
 
-Links coming soon! 
+## Labs
+[Lab 1: Setup and Notebook](https://github.com/DS-100/sp18/raw/master/zipfiles/lab01.zip)
 
 <!-- 
 ## Labs
