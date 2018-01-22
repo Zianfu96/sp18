@@ -4,6 +4,47 @@ title: "Materials"
 description: "Labs and Discussion Notebooks"
 ---
 
+## How to submit lab or homework?
+### Working locally
+
+1.  Download the zip file from [https://github.com/DS-100/sp18/tree/master/zipfiles](https://github.com/DS-100/sp18/tree/master/zipfiles)
+
+2.  Open the jupyter notebook in the lab01 directory.
+
+3.  Complete the notebook assignment.
+
+4.  Go to datahub:
+    [http://data100.datahub.berkeley.edu](http://data100.datahub.berkeley.edu)
+
+5.  Create a new folder, rename it to the assignment name. (lab01 for example).
+
+6.  Go to assignment folder, and upload everything you created in assignment folder. (For example, ‘lab01.ipynb’ and ‘figure1.pdf’)
+
+7.  Run the notebook ('lab01.ipynb' for example), click "validate". Make sure it passes all tests. Save it.
+
+8.  Go to “Assignments” tab
+
+9.  Click ‘submit’. You can do so multiple time.
+
+10. Done!
+
+### Working on datahub
+
+1.  Go to datahub:
+    [http://data100.datahub.berkeley.edu](http://data100.datahub.berkeley.edu)
+
+2.  Go to “Assignments” tab, fetch the assignment (for example, lab01)
+
+3.  Go to “Files” tab, start working on the assignment. 
+
+4.  After you are done, be sure to validate and save. 
+
+5.  Go to “Assignments” tab.
+
+6.  Click ‘submit’. You can do so multiple time.
+
+7.  Done!
+
 ## Labs
 [Lab 1: Setup and Notebook](https://github.com/DS-100/sp18/raw/master/zipfiles/lab01.zip)
 
