@@ -26,13 +26,10 @@ This class is listed as [STAT C100](http://classes.berkeley.edu/content/2017-fal
 
 * **When:** Lectures Tuesdays and Thursdays from 11:00AM to 12:30PM
 * **Where:** [150 Wheeler ](http://www.berkeley.edu/map?wheeler)
+* **What:** See the [lecture schedule](syllabus) 
+* **News:** We will post updates about the class on [Piazza](https://piazza.com/berkeley/spring2018/data100/home)
 
 If you have issues with enrollment contact: <a href="mailto:csconners@cs.berkeley.edu?subject=[DS100 Enrollment]">Cindy Conners</a>
-
-<!-- * **What:** See the [lecture schedule](http://www.ds100.org/sp18/syllabus) -->
-<!-- * **Section and Lab:** The section and lab assignments will be obtained optimally using a [linear program](https://en.wikipedia.org/wiki/Assignment_problem).  To get the best assignment please complete the following [Google Form](https://goo.gl/forms/uGf0qhF2rPF8inRl2).
- -->
- <!-- * **News:** We will post updates about the class on [Piazza](https://piazza.com/berkeley/fall2017/ds100/home) -->
 
 
 
@@ -56,9 +53,9 @@ For official holidays see the [academic calendar](http://registrar.berkeley.edu/
 
 * **Prepare** students for advanced Berkeley courses in data-management, machine learning, and statistics, by providing the necessary foundation and context
 
-* **Enable** students to start careers as data scientists by providing experience in working with real-world data, tools, and techniques
+* **Enable** students to start careers as data scientists by providing experience working with real-world data, tools, and techniques
 
-* **Empower** student to apply computational and inferential thinking to address real-world problems
+* **Empower** students to apply computational and inferential thinking to address real-world problems
 
 
 ## Prerequisites
