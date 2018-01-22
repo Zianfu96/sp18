@@ -62,7 +62,7 @@ scratch.
 
 ### Installing Anaconda:
 
-1. Visit [the Anaconda website](https://www.continuum.io/downloads#windows) and download the installer for Python 3.5. Download the 64-bit installer if your computer is 64-bit (more likely), the 32-bit installer if not. You can Google how to check whether your computer is 64 or 32 bit.
+1. Visit [the Anaconda website](https://www.continuum.io/downloads#windows) and download the installer for **Python 3.6**. Download the 64-bit installer if your computer is 64-bit (more likely), the 32-bit installer if not. You can Google how to check whether your computer is 64 or 32 bit.
 
 2. Leave all the options as default (install for all users, in the default
    location). Make sure both of these checkboxes are checked:
