@@ -18,6 +18,10 @@ description: "Instructions to set up your data science environment."
     - [Verifying your environment](#verifying-your-environment)
 - [Working on JupyterHub](#working-on-jupyterhub)
 
+## Need a Computer?
+
+We have a small collection of older Chromebooks [on reserve](http://oskicat.berkeley.edu/search~S1?/rcomputer+science+c+100/rcomputer+science+c+100/-3%2C0%2C0%2CB/frameset&FF=rcompsci+c100&1%2C1%2C/indexsort=-) in the library.
+
 ## OSX
 
 0. First things first. Your terminal program allows you to type commands to

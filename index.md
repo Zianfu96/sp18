@@ -99,7 +99,6 @@ While we are working to make this class widely accessible we currently require t
 <!-- 
 ## Teaching Assistants
 
-
   <div class="staff__item">
     <img class="staff__img"
          src="assets/images/BiyeJiang.jpg"
