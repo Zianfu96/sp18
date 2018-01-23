@@ -6,11 +6,11 @@ description: "Labs and Discussion Notebooks"
 
 ## Contents
 
-- [Assignment Submission](#How-to-submit-lab-or-homework)
-    - [Working Locally](#Working-locally)
-    - [Working on datahub](#Working-on-datahub)
-- [Labs](#Labs)
-- [Previous Semesters's Materials](#Previous-Semester%E2%80%99s-Materials)
+- [Assignment Submission](#how-to-submit-lab-or-homework)
+    - [Working Locally](#working-locally)
+    - [Working on datahub](#working-on-datahub)
+- [Labs](#labs)
+- [Previous Semesters's Materials](#previous-semesters-materials)
 
 ## How to submit lab or homework?
 ### Working locally
