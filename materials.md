@@ -12,7 +12,7 @@ description: "Labs and Discussion Notebooks"
 - [Labs](#labs)
 - [Previous Semester's Materials](#previous-semesters-materials)
 
-## How to submit lab or homework?
+## How to submit lab or homework
 ### Working locally
 
 1.  Download the assignment zip file from [https://github.com/DS-100/sp18/tree/master/zipfiles](https://github.com/DS-100/sp18/tree/master/zipfiles)
