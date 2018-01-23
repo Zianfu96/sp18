@@ -84,6 +84,10 @@
        url: assets/lectures/lec03/03-datatables-indexes-pandas.pdf
      - name: handout
        url: assets/lectures/lec03/03-datatables-indexes-pandas-handout.pdf
+     - name: notebook
+       url: assets/lectures/lec03/03-live-datatables-indexes-pandas.ipynb
+     - name: notebook(html)
+       url: assets/lectures/lec03/03-live-datatables-indexes-pandas.html
   assignment: |
     [Lab 1 Released: Setup and Notebook](https://github.com/DS-100/sp18/raw/master/zipfiles/lab01.zip)  
     [Homework 1 Released: Setup, Prerequisites, and Image Classification](https://github.com/DS-100/sp18/raw/master/zipfiles/hw1.zip)
