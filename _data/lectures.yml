@@ -8,6 +8,7 @@
 #   topic: Title of the lecture
 #   lecturer: Person giving lecture
 #   description: Longer description of lecture content
+#   textbook: Textbook chapter and URL
 #   assignment: If applicable, assignment released that day.
 #
 # Python script to generate the dates:
@@ -77,6 +78,9 @@
   lecturer: Perez
   description: |
     While data comes in many forms, most data analysis are done on tabular data. Mastering the skills of constructing, cleaning, joining, aggregating, and manipulating tabular data is essential to data science. In this lecture, we will introduce Pandas, the open-source Python data manipulation library widely used by data scientists. In addition to introducing new syntax, we will introduce new concepts including indexes, the role of column operations on system performance, and basic tools to begin visualizing data.
+  textbook:
+    - chapter: Chapter 3
+      url: https://ds100.gitbooks.io/textbook/content/v/v1/ch3/tabular_data.html
   links:
      - name: pptx
        url: assets/lectures/lec03/03-datatables-indexes-pandas.pptx
