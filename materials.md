@@ -15,9 +15,9 @@ description: "Labs and Discussion Notebooks"
 ## How to submit lab or homework?
 ### Working locally
 
-1.  Download the zip file from [https://github.com/DS-100/sp18/tree/master/zipfiles](https://github.com/DS-100/sp18/tree/master/zipfiles)
+1.  Download the assignment zip file from [https://github.com/DS-100/sp18/tree/master/zipfiles](https://github.com/DS-100/sp18/tree/master/zipfiles)
 
-2.  Open the jupyter notebook in the lab01 directory.
+2.  Unzip the assignment, navigate to the assignment directory and open the jupyter notebook.
 
 3.  Complete the notebook assignment.
 
