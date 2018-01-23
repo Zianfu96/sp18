@@ -1,5 +1,9 @@
 # This file contains the course announcements in reverse chronological order.
 # Note that only the most recent (topmost) announcement is rendered.
+- date: 1/23/2018
+  text: |
+    - [Homework 1](https://github.com/DS-100/sp18/raw/master/zipfiles/hw1.zip) released. It is due Tuesday, Jan 30th at 11:59PM.
+
 - date: 1/22/2018
   text: |
     - Section assignments released. Please check your email.
