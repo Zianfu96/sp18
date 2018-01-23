@@ -10,7 +10,7 @@ description: "Labs and Discussion Notebooks"
     - [Working Locally](#working-locally)
     - [Working on datahub](#working-on-datahub)
 - [Labs](#labs)
-- [Previous Semesters's Materials](#previous-semesters-materials)
+- [Previous Semester's Materials](#previous-semesters-materials)
 
 ## How to submit lab or homework?
 ### Working locally
