@@ -4,6 +4,14 @@ title: "Materials"
 description: "Labs and Discussion Notebooks"
 ---
 
+## Contents
+
+- [Assignment Submission](#How-to-submit-lab-or-homework)
+    - [Working Locally](#Working-locally)
+    - [Working on datahub](#Working-on-datahub)
+- [Labs](#Labs)
+- [Previous Semesters's Materials](#Previous-Semester%E2%80%99s-Materials)
+
 ## How to submit lab or homework?
 ### Working locally
 
@@ -106,5 +114,6 @@ description: "Labs and Discussion Notebooks"
 
 ## Previous Semester's Materials
 
-You can take a look at materials from the previous semester [github repository](https://github.com/DS-100/sp17/tree/master/materials).
+You can take a look at materials from the Spring 2017 [github repository](https://github.com/DS-100/sp17/tree/master/materials).
+
 You can also obtain all the original slides from last semester here [google drive](https://drive.google.com/open?id=0Bze55lezLJhIM3BBRW0wc0lXQWs) and all datasets are available [here](https://drive.google.com/open?id=0B2k285AK-3KER3JoZU9hQVNGU2c).
