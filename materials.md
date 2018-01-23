@@ -20,11 +20,11 @@ description: "Labs and Discussion Notebooks"
 
 6.  Go to assignment folder, and upload everything you created in assignment folder. (For example, ‘lab01.ipynb’ and ‘figure1.pdf’)
 
-7.  Run the notebook ('lab01.ipynb' for example), click "validate". Make sure it passes all tests. Save it.
+7.  Run the notebook ('lab01.ipynb' for example), click 'validate'. Make sure it passes all tests. Save it.
 
 8.  Go to “Assignments” tab
 
-9.  Click ‘submit’. You can do so multiple time.
+9.  Click ‘submit’. You can do so multiple times.
 
 10. Done!
 
@@ -37,15 +37,16 @@ description: "Labs and Discussion Notebooks"
 
 3.  Go to “Files” tab, start working on the assignment. 
 
-4.  After you are done, be sure to validate and save. 
+4.  After you are done, be sure to click 'validate' and save. 
 
 5.  Go to “Assignments” tab.
 
-6.  Click ‘submit’. You can do so multiple time.
+6.  Click ‘submit’. You can do so multiple times.
 
 7.  Done!
 
 ## Labs
+
 [Lab 1: Setup and Notebook](https://github.com/DS-100/sp18/raw/master/zipfiles/lab01.zip)
 
 <!-- 

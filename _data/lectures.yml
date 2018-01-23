@@ -92,8 +92,8 @@
   #   - name: discussion slides
   #     url: https://docs.google.com/a/berkeley.edu/presentation/d/10XhhkYLemrVQQzo4QzkCz4TYF8bDdzwSWuq3UIQDb60/edit?usp=sharing
 
-  # assignment: |
-  #   [Vitamin 1 Released](https://goo.gl/forms/lFFylEP9ARxT8jjE3)
+  assignment: |
+    [Lab 1 Released](https://github.com/DS-100/sp18/raw/master/zipfiles/lab01.zip)
 
 
 - date: 1/25/2018
