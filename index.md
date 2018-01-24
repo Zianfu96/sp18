@@ -41,9 +41,10 @@ If you have enrolled in the wait-list please complete the following  <a href="ht
 
 ## Office Hours, Section, and Lab Schedule
 
-<div class="embed-wrapper">
-  <iframe src="https://calendar.google.com/calendar/embed?title=Data%20100%20Discussion%2C%20Lab%2C%20Office%20Hours&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=berkeley.edu_3iothuu50b7vt60vh265urvkgg%40group.calendar.google.com&amp;color=%2342104A&amp;src=berkeley.edu_q7fe1ocb0v0kdofsf0jb6tnv10%40group.calendar.google.com&amp;color=%23182C57&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<div class="embed-wrapper" style="height:500px">
+  <iframe src="https://calendar.google.com/calendar/embed?title=Data%20100%20Discussion%2C%20Lab%2C%20Office%20Hours&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=berkeley.edu_3iothuu50b7vt60vh265urvkgg%40group.calendar.google.com&amp;color=%2342104A&amp;src=berkeley.edu_q7fe1ocb0v0kdofsf0jb6tnv10%40group.calendar.google.com&amp;color=%23182C57&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="800" height="700" frameborder="0" scrolling="no"></iframe>
 </div>
+
 
 For official holidays see the [academic calendar](http://registrar.berkeley.edu/sites/default/files/pdf/UCB_AcademicCalendar_2017-18_V3.pdf).
 
