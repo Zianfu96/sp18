@@ -92,6 +92,8 @@
        url: assets/lectures/lec03/03-live-datatables-indexes-pandas.ipynb
      - name: notebook(html)
        url: assets/lectures/lec03/03-live-datatables-indexes-pandas.html
+     - name: screencast
+       url: https://www.youtube.com/watch?v=hEqNyjEHYYs
   assignment: |
     [Lab 1 Released: Setup and Notebook](https://github.com/DS-100/sp18/raw/master/zipfiles/lab01.zip)  
     [Homework 1 Released: Setup, Prerequisites, and Image Classification](https://github.com/DS-100/sp18/raw/master/zipfiles/hw1.zip)
