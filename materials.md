@@ -6,58 +6,16 @@ description: "Labs and Discussion Notebooks"
 
 ## Contents
 
+- [Labs](#labs)
+- [Discussions](#discussions)
 - [Assignment Submission](#how-to-submit-lab-or-homework)
     - [Working Locally](#working-locally)
     - [Working on datahub](#working-on-datahub)
-- [Labs](#labs)
-- [Discussions](#discussions)
 - [Previous Semester's Materials](#previous-semesters-materials)
-
-## How to submit lab or homework
-### Working locally
-
-1.  Download the assignment zip file from [https://github.com/DS-100/sp18/tree/master/zipfiles](https://github.com/DS-100/sp18/tree/master/zipfiles)
-
-2.  Unzip the assignment, navigate to the assignment directory and open the jupyter notebook.
-
-3.  Complete the notebook assignment.
-
-4.  Go to datahub:
-    [http://data100.datahub.berkeley.edu](http://data100.datahub.berkeley.edu)
-
-5.  Create a new folder, rename it to the assignment name. (lab01 for example).
-
-6.  Go to assignment folder, and upload everything you created in assignment folder. (For example, ‘lab01.ipynb’ and ‘figure1.pdf’)
-
-7.  Run the notebook ('lab01.ipynb' for example), click 'validate'. Make sure it passes all tests. Save it.
-
-8.  Go to “Assignments” tab
-
-9.  Click ‘submit’. You can do so multiple times.
-
-10. Done!
-
-### Working on datahub
-
-1.  Go to datahub:
-    [http://data100.datahub.berkeley.edu](http://data100.datahub.berkeley.edu)
-
-2.  Go to “Assignments” tab, fetch the assignment (for example, lab01)
-
-3.  Go to “Files” tab, start working on the assignment. 
-
-4.  After you are done, be sure to click 'validate' and save. 
-
-5.  Go to “Assignments” tab.
-
-6.  Click ‘submit’. You can do so multiple times.
-
-7.  Done!
 
 ## Labs
 
 [Lab 1: Setup and Notebook](https://github.com/DS-100/sp18/raw/master/zipfiles/lab01.zip)
-
 
 ## Discussions
 [Discussion 1: Probability and Sampling](assets/discussions/disc01.pdf)
@@ -116,6 +74,47 @@ description: "Labs and Discussion Notebooks"
 [Discussion 10: Linear Algebra and Gradient Review](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/disc10.zip)
 
 [Discussion 12: Precision/Recall and Logistic Regression](https://docs.google.com/a/berkeley.edu/presentation/d/1cR5pVL16wHx3V8FaGrnpWX4HJst2Ibacpco6P1ZxFFY/edit?usp=sharing) -->
+
+## How to submit lab or homework
+### Working locally
+
+1.  Download the assignment zip file from [https://github.com/DS-100/sp18/tree/master/zipfiles](https://github.com/DS-100/sp18/tree/master/zipfiles)
+
+2.  Unzip the assignment, navigate to the assignment directory and open the jupyter notebook.
+
+3.  Complete the notebook assignment.
+
+4.  Go to datahub:
+    [http://data100.datahub.berkeley.edu](http://data100.datahub.berkeley.edu)
+
+5.  Create a new folder, rename it to the assignment name. (lab01 for example).
+
+6.  Go to assignment folder, and upload everything you created in assignment folder. (For example, ‘lab01.ipynb’ and ‘figure1.pdf’)
+
+7.  Run the notebook ('lab01.ipynb' for example), click 'validate'. Make sure it passes all tests. Save it.
+
+8.  Go to “Assignments” tab
+
+9.  Click ‘submit’. You can do so multiple times.
+
+10. Done!
+
+### Working on datahub
+
+1.  Go to datahub:
+    [http://data100.datahub.berkeley.edu](http://data100.datahub.berkeley.edu)
+
+2.  Go to “Assignments” tab, fetch the assignment (for example, lab01)
+
+3.  Go to “Files” tab, start working on the assignment. 
+
+4.  After you are done, be sure to click 'validate' and save. 
+
+5.  Go to “Assignments” tab.
+
+6.  Click ‘submit’. You can do so multiple times.
+
+7.  Done!
 
 ## Previous Semester's Materials
 
