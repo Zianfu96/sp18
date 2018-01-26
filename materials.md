@@ -57,6 +57,10 @@ description: "Labs and Discussion Notebooks"
 
 [Lab 1: Setup and Notebook](https://github.com/DS-100/sp18/raw/master/zipfiles/lab01.zip)
 
+
+## Discussions
+[Discussion 1: Probability and Sampling](assets/discussions/disc01.pdf)
+
 <!-- 
 ## Labs
 
