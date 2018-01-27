@@ -20,6 +20,8 @@ Labs assignments will be graded for completion and are intended to help with the
 * 20% Midterm
 * 30% Final
 
+(The midterm will be in class on March 8th. The final exam will be May 10th at 8am.)
+
 Participation is based on answering questions in lecture using an online form.  
 You will need a device with a web-browser to complete these online questions.
 Full credit is given for answering question (correct answer is not required) in 18 lectures, and is pro-rated for fewer than 18 lectures, i.e., min(number of lectures with recorded click, 18)/18.
