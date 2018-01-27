@@ -100,6 +100,25 @@
 
 
 - date: 1/25/2018
+  topic: Data Manipulation using Pandas - continued
+  lecturer: Perez
+  description: |
+    Continuation of the previous lecture - detailed discussion of the structure of a Pandas DataFrame and various access and grouping operations. Notebooks and slides from the previous lecture remain relevant.
+  textbook:
+    - chapter: Chapter 3
+      url: https://ds100.gitbooks.io/textbook/content/v/v1/ch3/tabular_data.html
+  links:
+     - name: group/pivot pptx
+       url: assets/lectures/lec03/03-groupby_and_pivot.pptx
+     - name: group/pivot pdf
+       url: assets/lectures/lec03/03-groupby_and_pivot.pdf
+     - name: groupby notebook
+       url: assets/lectures/lec03/03-groupby-notes.ipynb
+     - name: groupby notebook(html)
+       url: assets/lectures/lec03/03-groupby-notes.html
+
+
+- date: 1/25/2018
   topic: EDA and Data Cleaning
   lecturer: Gonzalez
   description: |
