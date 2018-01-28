@@ -118,7 +118,7 @@
        url: assets/lectures/lec03/03-groupby-notes.html
 
 
-- date: 1/25/2018
+- date: 1/30/2018
   topic: EDA and Data Cleaning
   lecturer: Gonzalez
   description: |
@@ -149,11 +149,11 @@
   #     url: https://www.youtube.com/watch?v=zOapXXD_oxI
 
 
-- date: 1/30/2018
-  topic: EDA and Visualization
-  lecturer: Gonzalez
-  description: |
-    In this lecture we will continue to work through a real-world exercise in EDA using public crime data for the city of Berkeley. We will also begin to introduce tools for data visualization using Pandas, Seaborn, and Matplotlib.
+# - date: 1/30/2018
+#   topic: EDA and Visualization
+#   lecturer: Gonzalez
+#   description: |
+#     In this lecture we will continue to work through a real-world exercise in EDA using public crime data for the city of Berkeley. We will also begin to introduce tools for data visualization using Pandas, Seaborn, and Matplotlib.
 
   # links:
   #   - name: pptx
