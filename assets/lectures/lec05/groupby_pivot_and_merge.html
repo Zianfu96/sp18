@@ -11950,7 +11950,7 @@ div#notebook {
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>&lt;pandas.core.groupby.DataFrameGroupBy object at 0x109f64b70&gt;</pre>
+<pre>&lt;pandas.core.groupby.DataFrameGroupBy object at 0x11246ffd0&gt;</pre>
 </div>
 
 </div>
@@ -14137,7 +14137,7 @@ Name: Number, dtype: int64</pre>
         <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;Done!&#39;</span><span class="p">)</span>
     <span class="k">else</span><span class="p">:</span>
         <span class="kn">import</span> <span class="nn">time</span> 
-        <span class="n">birth_time</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">ctime</span><span class="p">(</span><span class="n">file_path</span><span class="o">.</span><span class="n">stat</span><span class="p">()</span><span class="o">.</span><span class="n">st_birthtime</span><span class="p">)</span>
+        <span class="n">birth_time</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">ctime</span><span class="p">(</span><span class="n">file_path</span><span class="o">.</span><span class="n">stat</span><span class="p">()</span><span class="o">.</span><span class="n">st_ctime</span><span class="p">)</span>
         <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Using cached version downloaded:&quot;</span><span class="p">,</span> <span class="n">birth_time</span><span class="p">)</span>
     <span class="k">return</span> <span class="n">file_path</span>
 </pre></div>
@@ -14207,7 +14207,7 @@ Name: Number, dtype: int64</pre>
     <span class="k">if</span> <span class="n">f</span><span class="o">.</span><span class="n">filename</span><span class="o">.</span><span class="n">endswith</span><span class="p">(</span><span class="s1">&#39;.TXT&#39;</span><span class="p">)</span>
 <span class="p">]</span>
 
-<span class="n">baby_names</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">concat</span><span class="p">(</span><span class="n">states</span><span class="p">)</span>
+<span class="n">baby_names</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">concat</span><span class="p">(</span><span class="n">states</span><span class="p">)</span><span class="o">.</span><span class="n">reset_index</span><span class="p">(</span><span class="n">drop</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
 </pre></div>
 
 </div>
@@ -14457,7 +14457,7 @@ Name: Count, dtype: int64</pre>
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>&lt;matplotlib.axes._subplots.AxesSubplot at 0x10f34a780&gt;</pre>
+<pre>&lt;matplotlib.axes._subplots.AxesSubplot at 0x1a181a4dd8&gt;</pre>
 </div>
 
 </div>
@@ -14844,7 +14844,7 @@ Name: Count, dtype: int64</pre>
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>&lt;matplotlib.axes._subplots.AxesSubplot at 0x1a2a4ba630&gt;</pre>
+<pre>&lt;matplotlib.axes._subplots.AxesSubplot at 0x1a32262320&gt;</pre>
 </div>
 
 </div>
@@ -14905,7 +14905,7 @@ Name: Count, dtype: int64</pre>
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>&lt;matplotlib.axes._subplots.AxesSubplot at 0x1a2a5e6160&gt;</pre>
+<pre>&lt;matplotlib.axes._subplots.AxesSubplot at 0x1a327dbf60&gt;</pre>
 </div>
 
 </div>
