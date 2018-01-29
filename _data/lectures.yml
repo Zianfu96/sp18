@@ -135,10 +135,8 @@
     - name: Advanced Pandas Notebook (HTML Version)
       url: assets/lectures/lec05/groupby_pivot_and_merge.html
 
-
-
-  # assignment: |
-  #   [Lab 2 Released: pandas](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/lab02.zip)
+  assignment: |
+    [Lab 2 Released: Pandas Overview](https://github.com/DS-100/sp18/raw/master/zipfiles/lab02.zip)
 
   #   [Homework 2 Released: Food Safety Data Cleaning and EDA](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/hw2.zip)
   # links:
