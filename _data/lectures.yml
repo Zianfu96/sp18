@@ -134,6 +134,8 @@
       url: assets/lectures/lec05/groupby_pivot_and_merge.ipynb
     - name: Advanced Pandas Notebook (HTML Version)
       url: assets/lectures/lec05/groupby_pivot_and_merge.html
+    - name: Python utilities
+      url: assets/lectures/lec05/utils.py
 
   assignment: |
     [Lab 2 Released: Pandas Overview](https://github.com/DS-100/sp18/raw/master/zipfiles/lab02.zip)
