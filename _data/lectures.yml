@@ -134,6 +134,10 @@
       url: assets/lectures/lec05/groupby_pivot_and_merge.ipynb
     - name: Advanced Pandas Notebook (HTML Version)
       url: assets/lectures/lec05/groupby_pivot_and_merge.html
+    - name: EDA and Data Cleaning Notebook
+      url: assets/lectures/lec05/EDA_and_Cleaning.ipynb
+    - name: EDA and Data Cleaning Notebook (HTML Version)
+      url: assets/lectures/lec05/EDA_and_Cleaning.html
     - name: Python utilities
       url: assets/lectures/lec05/utils.py
 
