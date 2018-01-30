@@ -125,11 +125,11 @@
     Whether collected by you or obtained from someone else, raw data is seldom ready for immediate analysis.  Through exploratory data analysis we can often discover important anomalies, identify limitations in the collection process, and better inform subsequent goal oriented analysis. In this lecture we will discuss how to identify and correct common data anomalies and their implications on future analysis.    We will also discuss key properties of data including structure, granularity, faithfulness, temporality and scope and how these properties can inform how we prepare, analyze, and visualize data.
   links:
     - name: pptx
-      url: assets/lectures/lec05/05-EDA-and-Cleaning_v1.pptx
+      url: assets/lectures/lec05/05-EDA-and-Cleaning_v2.pptx
     - name: pdf
-      url: assets/lectures/lec05/05-EDA-and-Cleaning_v1.pdf
+      url: assets/lectures/lec05/05-EDA-and-Cleaning_v2.pdf
     - name: handout
-      url: assets/lectures/lec05/05-EDA-and-Cleaning-handout_v1.pdf
+      url: assets/lectures/lec05/05-EDA-and-Cleaning-handout_v2.pdf
     - name: Advanced Pandas Notebook 
       url: assets/lectures/lec05/groupby_pivot_and_merge.ipynb
     - name: Advanced Pandas Notebook (HTML Version)
