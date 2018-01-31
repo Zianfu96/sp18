@@ -116,6 +116,8 @@
        url: assets/lectures/lec03/03-groupby-notes.ipynb
      - name: groupby notebook (html version)
        url: assets/lectures/lec03/03-groupby-notes.html
+  assignment: |
+    [Vitamin 01 Released](https://goo.gl/forms/ps7OJXLi6Tiv38eB3)
 
 
 - date: 1/30/2018
@@ -130,7 +132,7 @@
       url: assets/lectures/lec05/05-EDA-and-Cleaning_v2.pdf
     - name: handout
       url: assets/lectures/lec05/05-EDA-and-Cleaning-handout_v2.pdf
-    - name: Advanced Pandas Notebook 
+    - name: Advanced Pandas Notebook
       url: assets/lectures/lec05/groupby_pivot_and_merge.ipynb
     - name: Advanced Pandas Notebook (HTML Version)
       url: assets/lectures/lec05/groupby_pivot_and_merge.html
@@ -140,9 +142,11 @@
       url: assets/lectures/lec05/EDA_and_Cleaning.html
     - name: Python utilities
       url: assets/lectures/lec05/utils.py
+    - name: screencast
+      url: https://www.youtube.com/watch?v=-mOqumUU9sM
 
   assignment: |
-    [Lab 2 Released: Pandas Overview](https://github.com/DS-100/sp18/raw/master/zipfiles/lab02.zip)
+    [Lab 2 Released: Pandas Overview](https://github.com/DS-100/sp18/raw/master/zipfiles/lab02.zip)  
     [Homework 2 Released: Food Safety Data Cleaning and EDA](https://github.com/DS-100/sp18/raw/master/zipfiles/hw2.zip)
 
   # links:

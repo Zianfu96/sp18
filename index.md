@@ -26,7 +26,7 @@ This class is listed as [STAT C100](http://classes.berkeley.edu/content/2017-fal
 
 * **When:** Lectures Tuesdays and Thursdays from 11:00AM to 12:30PM
 * **Where:** [150 Wheeler ](http://www.berkeley.edu/map?wheeler)
-* **What:** See the [lecture schedule](syllabus) 
+* **What:** See the [lecture schedule](syllabus)
 * **News:** We will post updates about the class on [Piazza](https://piazza.com/berkeley/spring2018/data100/home)
 
 If you have issues with enrollment contact: <a href="mailto:csconners@cs.berkeley.edu?subject=[DS100 Enrollment]">Cindy Conners</a>
@@ -96,8 +96,9 @@ While we are working to make this class widely accessible we currently require t
   </div>
 </section>
 
-<!-- 
 ## Teaching Assistants
+
+<section class="staff">
 
   <div class="staff__item">
     <img class="staff__img"
@@ -139,5 +140,86 @@ While we are working to make this class widely accessible we currently require t
     </address>
   </div>
 
+  <div class="staff__item">
+    <img class="staff__img"
+         src="assets/images/AndrewDo.png"
+         alt="Andrew Do" />
+    <address>
+      <strong>Andrew Do</strong><br>
+      <a href="mailto:do@berkeley.edu">do@berkeley.edu</a>
+    </address>
+  </div>
 
-</section> -->
+  <div class="staff__item">
+    <img class="staff__img"
+         src="assets/images/EdwardFang.png"
+         alt="Edward Fang" />
+    <address>
+      <strong>Edward Fang</strong><br>
+      <a href="mailto:edward.fang@berkeley.edu">edward.fang@berkeley.edu</a>
+    </address>
+  </div>
+
+  <div class="staff__item">
+    <img class="staff__img"
+         src="assets/images/MananaHakobyan.png"
+         alt="Manana Hakobyan" />
+    <address>
+      <strong>Manana Hakobyan</strong><br>
+      <a href="mailto:manana.hakyoban@berkeley.edu">manana.hakyoban@berkeley.edu</a>
+    </address>
+  </div>
+
+  <div class="staff__item">
+    <img class="staff__img"
+         src="assets/images/CalebSiu.png"
+         alt="Caleb Siu" />
+    <address>
+      <strong>Caleb Siu</strong><br>
+      <a href="mailto:calebs11@berkeley.edu">calebs11@berkeley.edu</a>
+    </address>
+  </div>
+
+  <div class="staff__item">
+    <img class="staff__img"
+         src="assets/images/JoyceLo.png"
+         alt="Joyce Lo" />
+    <address>
+      <strong>Joyce Lo</strong><br>
+      <a href="mailto:jyslo@berkeley.edu">jyslo@berkeley.edu</a>
+    </address>
+  </div>
+
+  <div class="staff__item">
+    <img class="staff__img"
+         src="assets/images/LouisRemus.png"
+         alt="Louis Remus" />
+    <address>
+      <strong>Louis Remus</strong><br>
+      <a href="mailto:louis.remus@berkeley.edu">louis.remus@berkeley.edu</a>
+    </address>
+  </div>
+
+  <div class="staff__item">
+    <img class="staff__img"
+         src="assets/images/SimonMo.png"
+         alt="Simon Mo" />
+    <address>
+      <strong>Simon Mo</strong><br>
+      <a href="mailto:xmo@berkeley.edu">xmo@berkeley.edu</a>
+    </address>
+  </div>
+  
+  <div class="staff__item">
+    <img class="staff__img"
+         src="assets/images/JustinKang.jpg"
+         alt="Justin Kang" />
+    <address>
+      <strong>Justin Kang</strong><br>
+      <a href="mailto:justinkangg@berkeley.edu">justinkangg@berkeley.edu</a>
+    </address>
+  </div>
+<section class="staff">
+
+
+</section>
