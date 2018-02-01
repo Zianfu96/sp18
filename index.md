@@ -219,6 +219,36 @@ While we are working to make this class widely accessible we currently require t
       <a href="mailto:justinkangg@berkeley.edu">justinkangg@berkeley.edu</a>
     </address>
   </div>
+  
+  <div class="staff__item">
+    <img class="staff__img"
+         src="assets/images/AmanDhar.jpeg"
+         alt="Aman Dhar" />
+    <address>
+      <strong>Aman Dhar</strong><br>
+      <a href="mailto:amandhar@berkeley.edu">amandhar@berkeley.edu</a>
+    </address>
+  </div>
+  
+  <div class="staff__item">
+    <img class="staff__img"
+         src="assets/images/KarinaGoot.jpg"
+         alt="Karina Goot" />
+    <address>
+      <strong>Karina Goot</strong><br>
+      <a href="mailto:kgoot@berkeley.edu">kgoot@berkeley.edu</a>
+    </address>
+  </div>
+  
+  <div class="staff__item">
+    <img class="staff__img"
+         src="assets/images/AakashBhalothia.png"
+         alt="Aakash Bhalothia" />
+    <address>
+      <strong>Aakash Bhalothia</strong><br>
+      <a href="mailto:aakash.bhalothia@berkeley.edu">aakash.bhalothia@berkeley.edu</a>
+    </address>
+  </div>
 <section class="staff">
 
 
