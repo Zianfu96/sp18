@@ -156,9 +156,9 @@
     - name: pptx
       url: assets/lectures/lec06/06-EDA-Continued.pptx
     - name: pdf
-      url: assets/lectures/lec05/06-EDA-Continued.pdf
+      url: assets/lectures/lec06/06-EDA-Continued.pdf
     - name: handout
-      url: assets/lectures/lec05/assets/lectures/lec06/06-EDA-Continued-handout.pdf
+      url: assets/lectures/lec06/06-EDA-Continued-handout.pdf
     - name: Advanced Pandas Notebook
       url: assets/lectures/lec05/groupby_pivot_and_merge.ipynb
     - name: Advanced Pandas Notebook (HTML Version)
