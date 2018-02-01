@@ -154,9 +154,15 @@ ul {
     .staff__item {
       flex-basis: 15rem;
       margin-bottom: 1rem;
+
+      a {
+        font-size: 18px;
+      }
     }
 
     .staff__img {
+      object-fit: cover;
+      height: 10rem;
       width: 7.5rem;
       margin: 0 auto;
     }
