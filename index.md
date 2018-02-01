@@ -249,6 +249,16 @@ While we are working to make this class widely accessible we currently require t
       <a href="mailto:aakash.bhalothia@berkeley.edu">aakash.bhalothia@berkeley.edu</a>
     </address>
   </div>
+
+  <div class="staff__item">
+    <img class="staff__img"
+         src="assets/images/WeiweiZhang.png"
+         alt="Weiwei Zhang" />
+    <address>
+      <strong>Weiwei Zhang</strong><br>
+      <a href="mailto:weiwzhang@berkeley.edu">weiwzhang@berkeley.edu</a>
+    </address>
+  </div>
 <section class="staff">
 
 
