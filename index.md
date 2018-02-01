@@ -252,7 +252,7 @@ While we are working to make this class widely accessible we currently require t
 
   <div class="staff__item">
     <img class="staff__img"
-         src="assets/images/WeiweiZhang.png"
+         src="assets/images/WeiWeiZhang.png"
          alt="Weiwei Zhang" />
     <address>
       <strong>Weiwei Zhang</strong><br>
