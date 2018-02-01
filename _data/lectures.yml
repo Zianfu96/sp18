@@ -124,22 +124,18 @@
   topic: Data Cleaning and EDA
   lecturer: Gonzalez
   description: |
-    Whether collected by you or obtained from someone else, raw data is seldom ready for immediate analysis.  Through exploratory data analysis we can often discover important anomalies, identify limitations in the collection process, and better inform subsequent goal oriented analysis. In this lecture we will discuss how to identify and correct common data anomalies and their implications on future analysis.    We will also discuss key properties of data including structure, granularity, faithfulness, temporality and scope and how these properties can inform how we prepare, analyze, and visualize data.
+    Whether collected by you or obtained from someone else, raw data is seldom ready for immediate analysis.  Through exploratory data analysis we can often discover important anomalies, identify limitations in the collection process, and better inform subsequent goal oriented analysis. In this lecture we will discuss how to identify and correct common data anomalies and their implications on future analysis.   We will also discuss key properties of data including structure, granularity, faithfulness, temporality, and scope and how these properties can inform how we prepare, analyze, and visualize data.
   links:
     - name: pptx
-      url: assets/lectures/lec05/05-EDA-and-Cleaning_v2.pptx
+      url: assets/lectures/lec05/05-EDA-and-Cleaning_v3.pptx
     - name: pdf
-      url: assets/lectures/lec05/05-EDA-and-Cleaning_v2.pdf
+      url: assets/lectures/lec05/05-EDA-and-Cleaning_v3.pdf
     - name: handout
-      url: assets/lectures/lec05/05-EDA-and-Cleaning-handout_v2.pdf
+      url: assets/lectures/lec05/05-EDA-and-Cleaning-handout_v3.pdf
     - name: Advanced Pandas Notebook
       url: assets/lectures/lec05/groupby_pivot_and_merge.ipynb
     - name: Advanced Pandas Notebook (HTML Version)
       url: assets/lectures/lec05/groupby_pivot_and_merge.html
-    - name: EDA and Data Cleaning Notebook
-      url: assets/lectures/lec05/EDA_and_Cleaning.ipynb
-    - name: EDA and Data Cleaning Notebook (HTML Version)
-      url: assets/lectures/lec05/EDA_and_Cleaning.html
     - name: Python utilities
       url: assets/lectures/lec05/utils.py
     - name: screencast
@@ -149,34 +145,21 @@
     [Lab 2 Released: Pandas Overview](https://github.com/DS-100/sp18/raw/master/zipfiles/lab02.zip)  
     [Homework 2 Released: Food Safety Data Cleaning and EDA](https://github.com/DS-100/sp18/raw/master/zipfiles/hw2.zip)
 
-  # links:
-  #   - name: pptx
-  #     url: https://drive.google.com/open?id=0Bze55lezLJhIaXdKZUlpbGM1Vkk
-  #   - name: pdf
-  #     url: https://drive.google.com/open?id=0Bze55lezLJhISklOSHJyS0ZnMjA
-  #   - name: handout
-  #     url: https://drive.google.com/open?id=0Bze55lezLJhIRkRRWWRwdE13MVU
-  #   - name: optional reading
-  #     url: http://www.stat.cmu.edu/~hseltman/309/Book/chapter4.pdf
-  #   - name: optional interesting tutorial
-  #     url: https://www.datacamp.com/community/tutorials/exploratory-data-analysis-python
-  #   - name: web notebook
-  #     url: assets/notebooks/04-lec/EDA_and_cleaning.html
-  #   - name: python
-  #     url: assets/notebooks/04-lec/EDA_and_Cleaning.ipynb
-  #   - name: data
-  #     url: assets/notebooks/04-lec/data.zip
-  #   - name: screencast
-  #     url: https://www.youtube.com/watch?v=zOapXXD_oxI
 
+- date: 2/1/2018
+  topic: EDA and Visualization
+  lecturer: Gonzalez and Perez
+  description: |
+    In this lecture we will continue our discussion EDA and start to work through a real-world exercise in EDA using public crime data for the city of Berkeley. We will also begin to introduce tools for data visualization using Pandas, Seaborn, and Matplotlib.
 
-# - date: 1/30/2018
-#   topic: EDA and Visualization
-#   lecturer: Gonzalez
-#   description: |
-#     In this lecture we will continue to work through a real-world exercise in EDA using public crime data for the city of Berkeley. We will also begin to introduce tools for data visualization using Pandas, Seaborn, and Matplotlib.
+  links:
+    - name: EDA and Data Cleaning Notebook
+      url: assets/lectures/lec06/EDA_and_Cleaning.ipynb
+    - name: EDA and Data Cleaning Notebook (HTML Version)
+      url: assets/lectures/lec06/EDA_and_Cleaning.html
 
   # links:
+
   #   - name: pptx
   #     url: https://drive.google.com/open?id=0Bze55lezLJhISmdGeGVzZHdtMms
   #   - name: pdf
@@ -201,7 +184,7 @@
   #   [Vitamin 2 Released](https://goo.gl/forms/hDjtAL3nHxt0gIei2)
 
 
-- date: 2/1/2018
+- date: 2/6/2018
   topic: Visualization and Data Tranformations
   lecturer: Perez
   description: |
@@ -240,7 +223,7 @@
   #   [Vitamin 3 Released](https://goo.gl/forms/nss4lY8STRUiUonM2)
 
 
-- date: 2/6/2018
+- date: 2/8/2018
   topic: Working with Text
   lecturer: Gonzalez
   description: |
@@ -267,7 +250,7 @@
   #   [Lab 4 Released: Plotting, smoothing, transformation](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/lab04.zip)
 
 
-- date: 2/8/2018
+- date: 02/13/2018
   topic: XPath and Web Technologies
   lecturer: Perez
   description: |
@@ -287,7 +270,7 @@
 
 
 
-- date: 02/13/2018
+- date: 02/15/2018
   topic: Introduction to Relational Data Management and SQL
   lecturer: Gonzalez
   description: |
@@ -320,7 +303,7 @@
   #   [Homework 4 Released: The Bootstrap](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/hw4.zip)
 
 
-- date: 02/15/2018
+- date: 02/20/2018
   topic: More Advanced SQL
   lecturer: Gonzalez
   description: |
@@ -348,7 +331,7 @@
 
 
 
-- date: 02/20/2018
+- date: 02/22/2018
   topic: Modeling and Estimation
   lecturer: Gonzalez
   description: |
@@ -370,7 +353,7 @@
   # assignment: |
   #   [Vitamin 4 Released](https://goo.gl/forms/oQYmB523kyOmuMcb2)
 
-- date: 02/22/2018
+- date: 02/27/2017
   topic: Gradient Descent for Model Estimation
   lecturer: Gonzalez
   description: |
@@ -404,8 +387,8 @@
   #   url: https://www.youtube.com/watch?v=tPcKqhF3gAI
 
 
-
-- date: 02/27/2017
+ 
+- date: 03/01/2018
   topic: Generalization and Empirical Risk Minimization
   lecturer: Gonzalez
   description: |
@@ -430,8 +413,20 @@
   #   [Lab 11 Released: Feature Engineering & Cross Validation](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/lab11.zip)
 
 
+- date: 3/6/2018
+  topic: Midterm Review
+  lecturer: Gonzalez
+  description: |
+    This lecture will review key topics from the course that will be covered on the midterm.
 
-- date: 03/01/2018
+- date: 3/8/2018
+  topic: Midterm 
+  lecturer: Gonzalez and Perez
+  description: |
+    The midterm will take place in class (attendance is mandatory).
+
+
+- date: 3/13/2018
   topic: The Bias Variance Tradeoff and Regularization
   lecturer: Gonzalez
   description: |
