@@ -153,6 +153,16 @@
     In this lecture we will continue our discussion EDA and start to work through a real-world exercise in EDA using public crime data for the city of Berkeley. We will also begin to introduce tools for data visualization using Pandas, Seaborn, and Matplotlib.
 
   links:
+    - name: pptx
+      url: assets/lectures/lec06/06-EDA-Continued.pptx
+    - name: pdf
+      url: assets/lectures/lec05/06-EDA-Continued.pdf
+    - name: handout
+      url: assets/lectures/lec05/assets/lectures/lec06/06-EDA-Continued-handout.pdf
+    - name: Advanced Pandas Notebook
+      url: assets/lectures/lec05/groupby_pivot_and_merge.ipynb
+    - name: Advanced Pandas Notebook (HTML Version)
+      url: assets/lectures/lec05/groupby_pivot_and_merge.html
     - name: EDA and Data Cleaning Notebook
       url: assets/lectures/lec06/EDA_and_Cleaning.ipynb
     - name: EDA and Data Cleaning Notebook (HTML Version)
@@ -431,6 +441,7 @@
   lecturer: Gonzalez
   description: |
     There is a fundamental tension in predictive modeling between our ability to fit the data and to generalize to the world. In this lecture we characterize this tension through the tradeoff between bias and variance.  We will derive the bias and variance decomposition of the least squares objective.  We then discuss how to manage this tradeoff by augmenting our objective with a regularization penalty.
+
 
   # links:
   # - name: pptx
