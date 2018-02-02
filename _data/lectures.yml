@@ -167,6 +167,8 @@
       url: assets/lectures/lec06/EDA_and_Cleaning.ipynb
     - name: EDA and Data Cleaning Notebook (HTML Version)
       url: assets/lectures/lec06/EDA_and_Cleaning.html
+    - name: screencast
+      url: https://www.youtube.com/watch?v=tpsso5AeghM
 
   # links:
 
