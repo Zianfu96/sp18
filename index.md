@@ -186,7 +186,7 @@ While we are working to make this class widely accessible we currently require t
          alt="Joyce Lo" />
     <address>
       <strong>Joyce Lo</strong><br>
-      <a href="mailto:jyslo@berkeley.edu">jyslo@berkeley.edu</a>
+      <a href="mailto:jsylo@berkeley">jsylo@berkeley.edu</a>
     </address>
   </div>
 
