@@ -116,6 +116,8 @@
        url: assets/lectures/lec03/03-groupby-notes.ipynb
      - name: groupby notebook (html version)
        url: assets/lectures/lec03/03-groupby-notes.html
+     - name: screencast (last year)
+       url: https://www.youtube.com/watch?v=CP63L2mKPko
   assignment: |
     [Vitamin 01 Released](https://goo.gl/forms/ps7OJXLi6Tiv38eB3)
 
@@ -167,6 +169,8 @@
       url: assets/lectures/lec06/EDA_and_Cleaning.ipynb
     - name: EDA and Data Cleaning Notebook (HTML Version)
       url: assets/lectures/lec06/EDA_and_Cleaning.html
+    - name: screencast
+      url: https://www.youtube.com/watch?v=tpsso5AeghM
 
   # links:
 
