@@ -22,7 +22,7 @@ description: "Labs and Discussion Notebooks"
 ## Discussions
 [Discussion 1: Probability and Sampling](assets/discussions/disc01.pdf) ([Solutions](assets/discussions/disc01-sol.pdf))
 
-[Discussion 2: Bayes' Rule and Data Visualization & Scope](assets/discussions/disc02.pdf)
+[Discussion 2: Bayes' Rule and Data Visualization & Scope](assets/discussions/disc02.pdf) ([Solutions](assets/discussions/disc02-sol.pdf))
 
 <!-- 
 ## Labs
