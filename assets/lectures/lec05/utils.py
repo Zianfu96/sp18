@@ -1,3 +1,5 @@
+"""Some common utilities for classwork and homework in Berkeley's Data100.
+"""
 
 
 def head(filename, lines=5):
@@ -21,13 +23,15 @@ def fetch_and_cache(data_url, file, data_dir="data", force=False):
     data_url: the web address to download
     file: the file in which to save the results.
     data_dir: (default="data") the location to save the data
-    force: if true the file is always re-downloaded 
+    force: if true the file is always re-downloaded
     
     return: The pathlib.Path object representing the file.
     """
+
     import requests
+    from hashlib import md5
     from pathlib import Path
-    from IPython.display import clear_output
+    
     data_dir = Path(data_dir)
     data_dir.mkdir(exist_ok=True)
     file_path = data_dir/Path(file)
@@ -43,14 +47,17 @@ def fetch_and_cache(data_url, file, data_dir="data", force=False):
         with file_path.open('wb') as f:
             for chunk in resp.iter_content(chunk_size): # write file in chunks
                 f.write(chunk)
-                clear_output(wait=True)
                 step -= 1
-                print('[' + '#'*(41 - step) + (step)*' ' + ']')
-        print("Downloaded " + data_url.split("/")[-1] + "!")
+                print('[' + '#'*(41 - step) + (step)*' ' + ']\r', end='')
+        print(f"\nDownloaded {data_url.split('/')[-1]}!")
     else:
         import time
         time_downloaded = time.ctime(file_path.stat().st_ctime)
         print("Using version already downloaded:", time_downloaded)
+    # Compute and print md5 hash of file, whether newly downloaded or not
+    m5 = md5()
+    m5.update(file_path.read_bytes())
+    print(f"MD5 hash of file: {m5.hexdigest()}")
     return file_path
 
 
