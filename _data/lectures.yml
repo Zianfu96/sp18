@@ -214,7 +214,13 @@
 
   #   [Homework 3 Released: Bike Sharing and Multivariate Visualization](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/hw3.zip)
 
-  # links:
+  links:
+    - name: intro matplotlib notebook (HTML Version)
+      url: assets/lectures/lec07/07-intro-matplotlib.html
+    - name: advanced matplotlib notebook (HTML Version)
+      url: assets/lectures/lec07/07-matplotlib_beyond_basics.html
+    - name: code
+      url: https://github.com/DS-100/sp18/blob/gh-pages/assets/lectures/lec07/code.zip
   #   - name: pptx
   #     url: https://drive.google.com/open?id=0B7gkaDYGT5X5ZGNoenU3enR5TW8
   #   - name: pdf
