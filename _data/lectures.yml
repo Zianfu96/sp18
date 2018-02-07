@@ -30,7 +30,7 @@
     In this lecture we provide an overview of what it means to be a data scientist by examining recent surveys of data scientists.  By exploring the names of students in the class we will review some basic python tools for data manipulation as well as some of the mathematical concepts that will be required in DS100.
   textbook:
     - chapter: Chapter 1
-      url: https://ds100.gitbooks.io/textbook/content/v/v1/ch1/the_data_science_lifecycle.html
+      url: https://www.textbook.ds100.org/ch1/the_data_science_lifecycle.html
   links:
     - name: pptx
       url: assets/lectures/lec01/01-intro-to-data100_v2.pptx
@@ -59,7 +59,7 @@
     Fundamentally, (data) science is the study of using data to learn about the world and solve problems.  However, how and what data is collected can have a profound impact on what we can learn and the problems we can solve. In this lecture, we will begin to explore various mechanisms for data collection and their implications on our ability to generalize.  In particular we will discuss differences between census, surveys, controlled experiments, and observational studies. We will highlight the power of simple randomization and the fallacies of data scale.
   textbook:
     - chapter: Chapter 2
-      url: https://ds100.gitbooks.io/textbook/content/v/v1/ch2/data_generation.html
+      url: https://www.textbook.ds100.org/ch2/data_generation.html
 
   links:
      - name: pptx
@@ -80,7 +80,7 @@
     While data comes in many forms, most data analysis are done on tabular data. Mastering the skills of constructing, cleaning, joining, aggregating, and manipulating tabular data is essential to data science. In this lecture, we will introduce Pandas, the open-source Python data manipulation library widely used by data scientists. In addition to introducing new syntax, we will introduce new concepts including indexes, the role of column operations on system performance, and basic tools to begin visualizing data.
   textbook:
     - chapter: Chapter 3
-      url: https://ds100.gitbooks.io/textbook/content/v/v1/ch3/tabular_data.html
+      url: https://www.textbook.ds100.org/ch3/tabular_data.html
   links:
      - name: pptx
        url: assets/lectures/lec03/03-datatables-indexes-pandas.pptx
@@ -95,7 +95,7 @@
      - name: screencast
        url: https://www.youtube.com/watch?v=hEqNyjEHYYs
   assignment: |
-    [Lab 1 Released: Setup and Notebook](https://github.com/DS-100/sp18/raw/master/zipfiles/lab01.zip)  
+    [Lab 1 Released: Setup and Notebook](https://github.com/DS-100/sp18/raw/master/zipfiles/lab01.zip)
     [Homework 1 Released: Setup, Prerequisites, and Image Classification](https://github.com/DS-100/sp18/raw/master/zipfiles/hw1.zip)
 
 
@@ -106,7 +106,7 @@
     Continuation of the previous lecture - detailed discussion of the structure of a Pandas DataFrame and various access and grouping operations. Notebooks and slides from the previous lecture remain relevant.
   textbook:
     - chapter: Chapter 3
-      url: https://ds100.gitbooks.io/textbook/content/v/v1/ch3/tabular_data.html
+      url: https://www.textbook.ds100.org/ch3/tabular_data.html
   links:
      - name: group/pivot pptx
        url: assets/lectures/lec03/03-groupby_and_pivot.pptx
@@ -127,6 +127,9 @@
   lecturer: Gonzalez
   description: |
     Whether collected by you or obtained from someone else, raw data is seldom ready for immediate analysis.  Through exploratory data analysis we can often discover important anomalies, identify limitations in the collection process, and better inform subsequent goal oriented analysis. In this lecture we will discuss how to identify and correct common data anomalies and their implications on future analysis.   We will also discuss key properties of data including structure, granularity, faithfulness, temporality, and scope and how these properties can inform how we prepare, analyze, and visualize data.
+  textbook:
+    - chapter: Chapter 4
+      url: https://www.textbook.ds100.org/ch4/data_cleaning.html
   links:
     - name: pptx
       url: assets/lectures/lec05/05-EDA-and-Cleaning_v3.pptx
@@ -144,7 +147,7 @@
       url: https://www.youtube.com/watch?v=-mOqumUU9sM
 
   assignment: |
-    [Lab 2 Released: Pandas Overview](https://github.com/DS-100/sp18/raw/master/zipfiles/lab02.zip)  
+    [Lab 2 Released: Pandas Overview](https://github.com/DS-100/sp18/raw/master/zipfiles/lab02.zip)
     [Homework 2 Released: Food Safety Data Cleaning and EDA](https://github.com/DS-100/sp18/raw/master/zipfiles/hw2.zip)
 
 
@@ -153,7 +156,9 @@
   lecturer: Gonzalez and Perez
   description: |
     In this lecture we will continue our discussion EDA and start to work through a real-world exercise in EDA using public crime data for the city of Berkeley. We will also begin to introduce tools for data visualization using Pandas, Seaborn, and Matplotlib.
-
+  textbook:
+    - chapter: Chapter 5
+      url: https://www.textbook.ds100.org/ch5/eda.html
   links:
     - name: pptx
       url: assets/lectures/lec06/06-EDA-Continued.pptx
@@ -209,13 +214,19 @@
 
 
   assignment: |
-    [Lab 3 Released: Plotting](https://github.com/DS-100/sp18/raw/master/zipfiles/lab03.zip)
+    [Lab 3 Released: Plotting](https://github.com/DS-100/sp18/raw/master/zipfiles/lab03.zip)  
+    [Homework 3 Released: EDA of Bike Sharing](https://github.com/DS-100/sp18/raw/master/zipfiles/hw3.zip)
 
   #   [Lab 3 Released: Data cleaning and seaborn](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/lab03.zip)
-
   #   [Homework 3 Released: Bike Sharing and Multivariate Visualization](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/hw3.zip)
 
-  # links:
+  links:
+    - name: intro matplotlib notebook (HTML Version)
+      url: assets/lectures/lec07/07-intro-matplotlib.html
+    - name: advanced matplotlib notebook (HTML Version)
+      url: assets/lectures/lec07/07-matplotlib_beyond_basics.html
+    - name: code
+      url: assets/lectures/lec07/code.zip
   #   - name: pptx
   #     url: https://drive.google.com/open?id=0B7gkaDYGT5X5ZGNoenU3enR5TW8
   #   - name: pdf
@@ -406,7 +417,7 @@
   #   url: https://www.youtube.com/watch?v=tPcKqhF3gAI
 
 
- 
+
 - date: 03/01/2018
   topic: Generalization and Empirical Risk Minimization
   lecturer: Gonzalez
@@ -439,7 +450,7 @@
     This lecture will review key topics from the course that will be covered on the midterm.
 
 - date: 3/8/2018
-  topic: Midterm 
+  topic: Midterm
   lecturer: Gonzalez and Perez
   description: |
     The midterm will take place in class (attendance is mandatory).

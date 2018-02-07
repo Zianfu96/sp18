@@ -1,3 +1,5 @@
+"""Some common utilities for classwork and homework in Berkeley's Data100.
+"""
 
 
 def head(filename, lines=5):
@@ -21,12 +23,15 @@ def fetch_and_cache(data_url, file, data_dir="data", force=False):
     data_url: the web address to download
     file: the file in which to save the results.
     data_dir: (default="data") the location to save the data
-    force: if true the file is always re-downloaded 
+    force: if true the file is always re-downloaded
     
     return: The pathlib.Path object representing the file.
     """
+
     import requests
+    from hashlib import md5
     from pathlib import Path
+    
     data_dir = Path(data_dir)
     data_dir.mkdir(exist_ok=True)
     file_path = data_dir/Path(file)
@@ -35,15 +40,24 @@ def fetch_and_cache(data_url, file, data_dir="data", force=False):
     if force and file_path.exists():
         file_path.unlink()
     if force or not file_path.exists():
-        print('Downloading...', end=' ')
-        resp = requests.get(data_url)
+        resp = requests.get(data_url, stream=True)
+        file_size = int(resp.headers.get('content-length', 0))
+        step = 40
+        chunk_size = file_size//step
         with file_path.open('wb') as f:
-            f.write(resp.content)
-        print('Done!')
+            for chunk in resp.iter_content(chunk_size): # write file in chunks
+                f.write(chunk)
+                step -= 1
+                print('[' + '#'*(41 - step) + (step)*' ' + ']\r', end='')
+        print(f"\nDownloaded {data_url.split('/')[-1]}!")
     else:
-        import time 
-        birth_time = time.ctime(file_path.stat().st_ctime)
-        print("Using cached version downloaded:", birth_time)
+        import time
+        time_downloaded = time.ctime(file_path.stat().st_ctime)
+        print("Using version already downloaded:", time_downloaded)
+    # Compute and print md5 hash of file, whether newly downloaded or not
+    m5 = md5()
+    m5.update(file_path.read_bytes())
+    print(f"MD5 hash of file: {m5.hexdigest()}")
     return file_path
 
 
