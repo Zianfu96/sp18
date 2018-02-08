@@ -272,7 +272,7 @@
      url: assets/lectures/lec08/code.zip
 
 
-- date: 2/8/2018
+- date: 2/13/2018
   topic: Working with Text
   lecturer: Gonzalez
   description: |
@@ -299,9 +299,9 @@
   #   [Lab 4 Released: Plotting, smoothing, transformation](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/lab04.zip)
 
 
-- date: 02/13/2018
+- date: 02/15/2018
   topic: XPath and Web Technologies
-  lecturer: Perez
+  lecturer: TBD
   description: |
     Data are available on the Internet - they can be embedded in web pages, provided after a form submission, and accessible through a REST API. We can access data from these various sources using HTTP - the HyperText Transfer Protocol. We will cover HTTP at a high level, and provide examples of how to use it to access web pages, submit forms, and crate REST requests.  Furthermore, when the data are embedded in an HTML document, we can use XPath to locate and extract it. XPath is a powerful tool developed for locating elements and content in an XML document (much better than regular expressions!). We cover the basics of XPath, which is enough to write complex expressions.
 
@@ -319,7 +319,7 @@
 
 
 
-- date: 02/15/2018
+- date: 02/20/2018
   topic: Introduction to Relational Data Management and SQL
   lecturer: Gonzalez
   description: |
@@ -352,7 +352,7 @@
   #   [Homework 4 Released: The Bootstrap](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/hw4.zip)
 
 
-- date: 02/20/2018
+- date: 02/22/2018
   topic: More Advanced SQL
   lecturer: Gonzalez
   description: |
@@ -380,7 +380,7 @@
 
 
 
-- date: 02/22/2018
+- date: 02/27/2018
   topic: Modeling and Estimation
   lecturer: Gonzalez
   description: |
@@ -402,7 +402,7 @@
   # assignment: |
   #   [Vitamin 4 Released](https://goo.gl/forms/oQYmB523kyOmuMcb2)
 
-- date: 02/27/2017
+- date: 03/01/2017
   topic: Gradient Descent for Model Estimation
   lecturer: Gonzalez
   description: |
@@ -436,8 +436,20 @@
   #   url: https://www.youtube.com/watch?v=tPcKqhF3gAI
 
 
+- date: 3/6/2018
+  topic: Midterm Review
+  lecturer: Gonzalez
+  description: |
+    This lecture will review key topics from the course that will be covered on the midterm.
 
-- date: 03/01/2018
+- date: 3/8/2018
+  topic: Midterm
+  lecturer: Gonzalez and Perez
+  description: |
+    The midterm will take place in class (attendance is mandatory).
+
+
+- date: 03/13/2018
   topic: Generalization and Empirical Risk Minimization
   lecturer: Gonzalez
   description: |
@@ -462,20 +474,8 @@
   #   [Lab 11 Released: Feature Engineering & Cross Validation](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/lab11.zip)
 
 
-- date: 3/6/2018
-  topic: Midterm Review
-  lecturer: Gonzalez
-  description: |
-    This lecture will review key topics from the course that will be covered on the midterm.
 
-- date: 3/8/2018
-  topic: Midterm
-  lecturer: Gonzalez and Perez
-  description: |
-    The midterm will take place in class (attendance is mandatory).
-
-
-- date: 3/13/2018
+- date: 3/15/2018
   topic: The Bias Variance Tradeoff and Regularization
   lecturer: Gonzalez
   description: |
