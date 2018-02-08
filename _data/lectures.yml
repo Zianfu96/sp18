@@ -259,17 +259,23 @@
   description: |
     We will finalize our discussion of data visualization principles and techniques.
 
-  links:
-    -name: 08-visualization (PPTX)
-     url: assets/lectures/lec08/08-visualization.pptx
-    -name: 08-figures notebook (HTML Version)
-     url: assets/lectures/lec08/08-figures.html
-    -name: 08-matplotlib-beyond-basics notebook (HTML Version)
-     url: assets/lectures/lec08/08-matplotlib-beyond-basics.html
-    -name: 08-matplotlib-common-plots notebook (HTML Version)
-     url: assets/lectures/lec08/08-matplotlib-common-plots.html
-    -name: code
-     url: assets/lectures/lec08/code.zip
+  links: 
+    - name: 08-visualization (PPTX)
+      url: assets/lectures/lec08/08-visualization.pptx
+    - name: 08-figures notebook 
+      url: assets/lectures/lec08/08-figures.ipynb
+    - name: 08-figures notebook (HTML Version)
+      url: assets/lectures/lec08/08-figures.html
+    - name: 08-matplotlib-beyond-basics notebook 
+      url: assets/lectures/lec08/08-matplotlib-beyond-basics.ipynb
+    - name: 08-matplotlib-beyond-basics notebook (HTML Version)
+      url: assets/lectures/lec08/08-matplotlib-beyond-basics.html
+    - name: 08-matplotlib-common-plots notebook 
+      url: assets/lectures/lec08/08-matplotlib-common-plots.ipynb
+    - name: 08-matplotlib-common-plots notebook (HTML Version)
+      url: assets/lectures/lec08/08-matplotlib-common-plots.html
+    - name: data
+      url: assets/lectures/lec08/data.zip
 
 
 - date: 2/13/2018
