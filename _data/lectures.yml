@@ -254,6 +254,25 @@
 
 
 - date: 2/8/2018
+  topic: Visualization and Data Tranformations (continued)
+  lecturer: Perez
+  description: |
+    We will finalize our discussion of data visualization principles and techniques.
+
+  links:
+    -name: 08-visualization (PPTX)
+     url: assets/lectures/lec08/08-visualization.pptx
+    -name: 08-figures notebook (HTML Version)
+     url: assets/lectures/lec08/08-figures.html
+    -name: 08-matplotlib-beyond-basics notebook (HTML Version)
+     url: assets/lectures/lec08/08-matplotlib-beyond-basics.html
+    -name: 08-matplotlib-common-plots notebook (HTML Version)
+     url: assets/lectures/lec08/08-matplotlib-common-plots.html
+    -name: code
+     url: assets/lectures/lec08/code.zip
+
+
+- date: 2/8/2018
   topic: Working with Text
   lecturer: Gonzalez
   description: |
