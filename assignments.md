@@ -18,11 +18,11 @@ description: "Homework, Projects, Vitamins, Labs, Discussions"
 
 ## Homework
 
-[Homework 3: EDA of Bike Sharing](https://github.com/DS-100/sp18/raw/master/zipfiles/hw3.zip)(due 2/13 11:59PM)
+[Homework 3: EDA of Bike Sharing](https://github.com/DS-100/sp18/raw/master/zipfiles/hw3.zip) (due 2/13 11:59PM)
 
-[Homework 2: Food Safety Data Cleaning and EDA](https://github.com/DS-100/sp18/raw/master/zipfiles/hw2.zip)(due 2/7 11:59PM)
+[Homework 2: Food Safety Data Cleaning and EDA](https://github.com/DS-100/sp18/raw/master/zipfiles/hw2.zip) (due 2/7 11:59PM)
 
-[Homework 1: Setup, Prerequisites, and Image Classification](https://github.com/DS-100/sp18/raw/master/zipfiles/hw1.zip)
+[Homework 1: Setup, Prerequisites, and Image Classification](https://github.com/DS-100/sp18/raw/master/zipfiles/hw1.zip) (due 1/30 11:59PM)
 
 ## Projects
 
@@ -43,6 +43,8 @@ description: "Homework, Projects, Vitamins, Labs, Discussions"
 [Lab 1: Setup and Notebook](https://github.com/DS-100/sp18/raw/master/zipfiles/lab01.zip)
 
 ## Discussions
+
+[Discussion 3: Data Visualization and Log Transformations](assets/discussions/disc03.pdf)
 
 [Discussion 2: Bayes' Rule and Data Visualization & Scope](assets/discussions/disc02.pdf) ([Solutions](assets/discussions/disc02-sol.pdf))
 
