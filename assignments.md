@@ -44,7 +44,7 @@ description: "Homework, Projects, Vitamins, Labs, Discussions"
 
 ## Discussions
 
-[Discussion 3: Data Visualization and Log Transformations](assets/discussions/disc03.pdf)
+[Discussion 3: Data Visualization and Log Transformations](assets/discussions/disc03.pdf) ([Solutions](assets/discussions/disc03-sol.pdf))
 
 [Discussion 2: Bayes' Rule and Data Visualization & Scope](assets/discussions/disc02.pdf) ([Solutions](assets/discussions/disc02-sol.pdf))
 
