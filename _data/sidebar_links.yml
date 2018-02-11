@@ -8,5 +8,7 @@
   url: grading
 - name: Assignments
   url: assignments
+- name: Materials
+  url: materials_table
 - name: Resources
   url: resources

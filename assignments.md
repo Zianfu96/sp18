@@ -10,7 +10,6 @@ description: "Homework, Projects, Vitamins, Labs, Discussions"
 - [Projects](#projects)
 - [Vitamins](#vitamins)
 - [Labs](#labs)
-- [Discussions](#discussions)
 - [Assignment Submission](#how-to-submit-lab-or-homework)
     - [Working Locally](#working-locally)
     - [Working on datahub](#working-on-datahub)
@@ -20,15 +19,17 @@ description: "Homework, Projects, Vitamins, Labs, Discussions"
 
 [Homework 3: EDA of Bike Sharing](https://github.com/DS-100/sp18/raw/master/zipfiles/hw3.zip) (due 2/13 11:59PM)
 
-[Homework 2: Food Safety Data Cleaning and EDA](https://github.com/DS-100/sp18/raw/master/zipfiles/hw2.zip) (due 2/7 11:59PM)
+[Homework 2: Food Safety Data Cleaning and EDA](https://github.com/DS-100/sp18/raw/master/zipfiles/hw2.zip) 
 
-[Homework 1: Setup, Prerequisites, and Image Classification](https://github.com/DS-100/sp18/raw/master/zipfiles/hw1.zip) (due 1/30 11:59PM)
+[Homework 1: Setup, Prerequisites, and Image Classification](https://github.com/DS-100/sp18/raw/master/zipfiles/hw1.zip) 
 
 ## Projects
 
 ### Coming soon!
 
 ## Vitamins
+
+[Vitamin 3](https://goo.gl/forms/8iZGvuq9phTY9lFH3) (due 2/13 11:59PM)
 
 [Vitamin 2](https://goo.gl/forms/jeh0jMEVNi9Wafdo1)
 
@@ -41,15 +42,6 @@ description: "Homework, Projects, Vitamins, Labs, Discussions"
 [Lab 2: Pandas Overview](https://github.com/DS-100/sp18/raw/master/zipfiles/lab02.zip)
 
 [Lab 1: Setup and Notebook](https://github.com/DS-100/sp18/raw/master/zipfiles/lab01.zip)
-
-## Discussions
-
-[Discussion 3: Data Visualization and Log Transformations](assets/discussions/disc03.pdf) ([Solutions](assets/discussions/disc03-sol.pdf))
-
-[Discussion 2: Bayes' Rule and Data Visualization & Scope](assets/discussions/disc02.pdf) ([Solutions](assets/discussions/disc02-sol.pdf))
-
-[Discussion 1: Probability and Sampling](assets/discussions/disc01.pdf) ([Solutions](assets/discussions/disc01-sol.pdf))
-
 
 ## How to submit lab or homework
 ### Working locally
