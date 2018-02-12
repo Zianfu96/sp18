@@ -37,6 +37,8 @@ description: "Homework, Projects, Vitamins, Labs, Discussions"
 
 ## Labs
 
+[Lab 4: Plotting, Smoothing, Transformation](https://github.com/DS-100/sp18/raw/master/zipfiles/lab04.zip) (due 2/12 11:59PM)
+
 [Lab 3: Plotting](https://github.com/DS-100/sp18/raw/master/zipfiles/lab03.zip) (due 2/7 1:00AM)
 
 [Lab 2: Pandas Overview](https://github.com/DS-100/sp18/raw/master/zipfiles/lab02.zip)
