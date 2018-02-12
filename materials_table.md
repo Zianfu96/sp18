@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: materials
 title: "Materials"
 description: "Lectures, Readings, Discussions"
 ---

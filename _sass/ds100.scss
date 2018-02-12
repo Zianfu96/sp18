@@ -102,6 +102,14 @@ ul {
   padding: 0 1.5rem;
 }
 
+.materials {
+  width: 100%;
+  max-width: $content-max-width;
+  flex-basis: 75%;
+
+  padding: 0 1.5rem;
+}
+
 .content-wide {
   width: 100%;
   flex-basis: 75%;
