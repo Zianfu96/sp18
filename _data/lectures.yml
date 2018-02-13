@@ -291,6 +291,27 @@
   lecturer: Gonzalez
   description: |
     Data are available on the Internet - they can be embedded in web pages, provided after a form submission, and accessible through a REST API. We can access data from these various sources using HTTP - the HyperText Transfer Protocol. We will cover HTTP at a high level, and provide examples of how to use it to access web pages, submit forms, and crate REST requests. 
+  links: 
+    - name: PPTX
+      url: assets/lectures/lec09/09-Web-Technologies_v2.pptx
+    - name: PDF
+      url: assets/lectures/lec09/09-Web-Technologies_v2.pdf
+    - name: Handout
+      url: assets/lectures/lec09/09-Web-Technologies_v2-handout.pdf
+    - name: All Code (zip)
+      url: assets/lectures/lec09/code.zip
+    - name: Kernel Smoothing
+      url: assets/lectures/lec09/kernel_smoothing.html
+    - name: Pandas and HTML
+      url: assets/lectures/lec09/pandas_read_html.html
+    - name: Working with JSON
+      url: assets/lectures/lec09/working_with_json.html
+    - name: Web Requests 
+      url: assets/lectures/lec09/basic_http_requests.html
+    - name: Calling Twitter REST APIs
+      url: assets/lectures/lec09/TwitterAPI_REST_Example.html
+
+      
 
   # Furthermore, when the data are embedded in an HTML document, we can use XPath to locate and extract it. XPath is a powerful tool developed for locating elements and content in an XML document (much better than regular expressions!). We cover the basics of XPath, which is enough to write complex expressions.
 
