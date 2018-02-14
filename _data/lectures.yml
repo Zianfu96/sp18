@@ -310,8 +310,9 @@
       url: assets/lectures/lec09/basic_http_requests.html
     - name: Calling Twitter REST APIs
       url: assets/lectures/lec09/TwitterAPI_REST_Example.html
+    - name: screencast
+      url: https://www.youtube.com/watch?v=IRwxbEpD2qU
 
-      
 
   # Furthermore, when the data are embedded in an HTML document, we can use XPath to locate and extract it. XPath is a powerful tool developed for locating elements and content in an XML document (much better than regular expressions!). We cover the basics of XPath, which is enough to write complex expressions.
 
