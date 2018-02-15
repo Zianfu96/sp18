@@ -25,7 +25,7 @@ description: "Homework, Projects, Vitamins, Labs, Discussions"
 
 ## Projects
 
-### Coming soon!
+[Project 1: Twitter Analysis](https://github.com/DS-100/sp18/raw/master/zipfiles/proj1.zip)
 
 ## Vitamins
 
