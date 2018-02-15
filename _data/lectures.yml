@@ -176,7 +176,7 @@
       url: assets/lectures/lec06/EDA_and_Cleaning.html
     - name: screencast
       url: https://www.youtube.com/watch?v=tpsso5AeghM
-      
+
   assignment: |
     [Vitamin 02 Released](https://goo.gl/forms/jeh0jMEVNi9Wafdo1)
 
@@ -214,7 +214,7 @@
 
 
   assignment: |
-    [Lab 3 Released: Plotting](https://github.com/DS-100/sp18/raw/master/zipfiles/lab03.zip)  
+    [Lab 3 Released: Plotting](https://github.com/DS-100/sp18/raw/master/zipfiles/lab03.zip)
     [Homework 3 Released: EDA of Bike Sharing](https://github.com/DS-100/sp18/raw/master/zipfiles/hw3.zip)
 
   #   [Lab 3 Released: Data cleaning and seaborn](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/lab03.zip)
@@ -261,18 +261,18 @@
   description: |
     We will finalize our discussion of data visualization principles and techniques.
 
-  links: 
+  links:
     - name: 08-visualization (PPTX)
       url: assets/lectures/lec08/08-visualization.pptx
-    - name: 08-figures notebook 
+    - name: 08-figures notebook
       url: assets/lectures/lec08/08-figures.ipynb
     - name: 08-figures notebook (HTML Version)
       url: assets/lectures/lec08/08-figures.html
-    - name: 08-matplotlib-beyond-basics notebook 
+    - name: 08-matplotlib-beyond-basics notebook
       url: assets/lectures/lec08/08-matplotlib-beyond-basics.ipynb
     - name: 08-matplotlib-beyond-basics notebook (HTML Version)
       url: assets/lectures/lec08/08-matplotlib-beyond-basics.html
-    - name: 08-matplotlib-common-plots notebook 
+    - name: 08-matplotlib-common-plots notebook
       url: assets/lectures/lec08/08-matplotlib-common-plots.ipynb
     - name: 08-matplotlib-common-plots notebook (HTML Version)
       url: assets/lectures/lec08/08-matplotlib-common-plots.html
@@ -280,7 +280,7 @@
       url: assets/lectures/lec08/data.zip
     - name: screencast
       url: https://www.youtube.com/watch?v=mLXI4u2JXSA
-      
+
   assignment: |
     [Vitamin 03 Released](https://goo.gl/forms/8iZGvuq9phTY9lFH3)
 
@@ -290,8 +290,8 @@
   topic: Web Technologies
   lecturer: Gonzalez
   description: |
-    Data are available on the Internet - they can be embedded in web pages, provided after a form submission, and accessible through a REST API. We can access data from these various sources using HTTP - the HyperText Transfer Protocol. We will cover HTTP at a high level, and provide examples of how to use it to access web pages, submit forms, and crate REST requests. 
-  links: 
+    Data are available on the Internet - they can be embedded in web pages, provided after a form submission, and accessible through a REST API. We can access data from these various sources using HTTP - the HyperText Transfer Protocol. We will cover HTTP at a high level, and provide examples of how to use it to access web pages, submit forms, and crate REST requests.
+  links:
     - name: PPTX
       url: assets/lectures/lec09/09-Web-Technologies_v2.pptx
     - name: PDF
@@ -306,7 +306,7 @@
       url: assets/lectures/lec09/pandas_read_html.html
     - name: Working with JSON
       url: assets/lectures/lec09/working_with_json.html
-    - name: Web Requests 
+    - name: Web Requests
       url: assets/lectures/lec09/basic_http_requests.html
     - name: Calling Twitter REST APIs
       url: assets/lectures/lec09/TwitterAPI_REST_Example.html
@@ -334,6 +334,19 @@
   lecturer: Sam Lau (Guest Lecturer)
   description: |
     Whether in documents, tweets, or records in a table, text data is ubiquitous and presents a unique set of challenges for data scientists.  How do you extract key phrases from text?  What are meaningful aggregate summaries of text?  How do you visualize textual data?  In this lecture we will introduce a set of techniques (e.g., bag-of-words) to transform text into numerical data and subsequent tabular analysis.  We will also introduce regular expressions as a mechanism for cleaning and transforming text data data.
+  links:
+    - name: keynote
+      url: assets/lectures/lec10/lec10.key
+    - name: pdf
+      url: assets/lectures/lec10/lec10.pdf
+    - name: handout
+      url: assets/lectures/lec10/lec10_handout.pdf
+    - name: notebook (ipynb)
+      url: assets/lectures/lec10/lec10.ipynb
+    - name: notebook (html)
+      url: assets/lectures/lec10/lec10.html
+    - name: data
+      url: assets/lectures/lec10/data.zip
 
   # links:
   #   - name: pptx
