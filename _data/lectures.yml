@@ -342,9 +342,9 @@
     - name: handout
       url: assets/lectures/lec10/lec10_handout.pdf
     - name: notebook (ipynb)
-      url: assets/lectures/lec10/lec10.ipynb
+      url: assets/lectures/lec10/lec10_live.ipynb
     - name: notebook (html)
-      url: assets/lectures/lec10/lec10.html
+      url: assets/lectures/lec10/lec10_live.html
     - name: data
       url: assets/lectures/lec10/data.zip
 
