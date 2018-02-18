@@ -17,7 +17,7 @@ description: "Homework, Projects, Vitamins, Labs, Discussions"
 
 ## Homework
 
-[Homework 3: EDA of Bike Sharing](https://github.com/DS-100/sp18/raw/master/zipfiles/hw3.zip) (due 2/13 11:59PM)
+[Homework 3: EDA of Bike Sharing](https://github.com/DS-100/sp18/raw/master/zipfiles/hw3.zip) 
 
 [Homework 2: Food Safety Data Cleaning and EDA](https://github.com/DS-100/sp18/raw/master/zipfiles/hw2.zip) 
 
@@ -25,11 +25,11 @@ description: "Homework, Projects, Vitamins, Labs, Discussions"
 
 ## Projects
 
-[Project 1: Twitter Analysis](https://github.com/DS-100/sp18/raw/master/zipfiles/proj1.zip)
+[Project 1: Twitter Analysis](https://github.com/DS-100/sp18/raw/master/zipfiles/proj1.zip) (due 2/27)
 
 ## Vitamins
 
-[Vitamin 3](https://goo.gl/forms/8iZGvuq9phTY9lFH3) (due 2/13 11:59PM)
+[Vitamin 3](https://goo.gl/forms/8iZGvuq9phTY9lFH3) 
 
 [Vitamin 2](https://goo.gl/forms/jeh0jMEVNi9Wafdo1)
 
@@ -37,9 +37,9 @@ description: "Homework, Projects, Vitamins, Labs, Discussions"
 
 ## Labs
 
-[Lab 4: Plotting, Smoothing, Transformation](https://github.com/DS-100/sp18/raw/master/zipfiles/lab04.zip) (due 2/12 11:59PM)
+[Lab 4: Plotting, Smoothing, Transformation](https://github.com/DS-100/sp18/raw/master/zipfiles/lab04.zip) 
 
-[Lab 3: Plotting](https://github.com/DS-100/sp18/raw/master/zipfiles/lab03.zip) (due 2/7 1:00AM)
+[Lab 3: Plotting](https://github.com/DS-100/sp18/raw/master/zipfiles/lab03.zip) 
 
 [Lab 2: Pandas Overview](https://github.com/DS-100/sp18/raw/master/zipfiles/lab02.zip)
 

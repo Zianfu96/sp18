@@ -95,7 +95,7 @@
      - name: screencast
        url: https://www.youtube.com/watch?v=hEqNyjEHYYs
   assignment: |
-    [Lab 1 Released: Setup and Notebook](https://github.com/DS-100/sp18/raw/master/zipfiles/lab01.zip)
+    [Lab 1 Released: Setup and Notebook](https://github.com/DS-100/sp18/raw/master/zipfiles/lab01.zip)  
     [Homework 1 Released: Setup, Prerequisites, and Image Classification](https://github.com/DS-100/sp18/raw/master/zipfiles/hw1.zip)
 
 
@@ -147,7 +147,7 @@
       url: https://www.youtube.com/watch?v=-mOqumUU9sM
 
   assignment: |
-    [Lab 2 Released: Pandas Overview](https://github.com/DS-100/sp18/raw/master/zipfiles/lab02.zip)
+    [Lab 2 Released: Pandas Overview](https://github.com/DS-100/sp18/raw/master/zipfiles/lab02.zip)  
     [Homework 2 Released: Food Safety Data Cleaning and EDA](https://github.com/DS-100/sp18/raw/master/zipfiles/hw2.zip)
 
 
@@ -214,7 +214,7 @@
 
 
   assignment: |
-    [Lab 3 Released: Plotting](https://github.com/DS-100/sp18/raw/master/zipfiles/lab03.zip)
+    [Lab 3 Released: Plotting](https://github.com/DS-100/sp18/raw/master/zipfiles/lab03.zip)  
     [Homework 3 Released: EDA of Bike Sharing](https://github.com/DS-100/sp18/raw/master/zipfiles/hw3.zip)
 
   #   [Lab 3 Released: Data cleaning and seaborn](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/lab03.zip)
