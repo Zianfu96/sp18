@@ -293,11 +293,11 @@
     Data are available on the Internet - they can be embedded in web pages, provided after a form submission, and accessible through a REST API. We can access data from these various sources using HTTP - the HyperText Transfer Protocol. We will cover HTTP at a high level, and provide examples of how to use it to access web pages, submit forms, and crate REST requests.
   links:
     - name: PPTX
-      url: assets/lectures/lec09/09-Web-Technologies_v2.pptx
+      url: assets/lectures/lec09/09-Web-Technologies_v4.pptx
     - name: PDF
-      url: assets/lectures/lec09/09-Web-Technologies_v2.pdf
+      url: assets/lectures/lec09/09-Web-Technologies_v4.pdf
     - name: Handout
-      url: assets/lectures/lec09/09-Web-Technologies_v2-handout.pdf
+      url: assets/lectures/lec09/09-Web-Technologies_v4-handout.pdf
     - name: All Code (zip)
       url: assets/lectures/lec09/code.zip
     - name: Kernel Smoothing
