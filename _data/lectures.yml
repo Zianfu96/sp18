@@ -349,8 +349,8 @@
       url: assets/lectures/lec10/data.zip
     - name: screencast
       url: https://www.youtube.com/watch?v=Yif8OtnzQwc
-    assignment: |
-      [Vitamin 04 Released](https://goo.gl/forms/Pb7iIdPBgGBUzvgx2)
+  assignment: |
+    [Vitamin 04 Released](https://goo.gl/forms/Pb7iIdPBgGBUzvgx2)
 
   # links:
   #   - name: pptx
