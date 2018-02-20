@@ -373,37 +373,26 @@
 
 
 - date: 02/20/2018
-  topic: Introduction to Relational Data Management and SQL
+  topic: Finish REST and Start Relational Databases and SQL
   lecturer: Gonzalez
   description: |
     Much of the the important data in the world is stored in relational database management systems.  In this lecture we will introduce the key concepts in relational databases including the relational data model, basic schema design, and data independence.  We will then begin to dig into the SQL language for accessing and manipulating relational data.
 
-  # links:
-  #   - name: pptx
-  #     url: https://drive.google.com/open?id=0Bze55lezLJhIaU9wZ3YzNlhyM0E
-  #   - name: pdf
-  #     url: https://drive.google.com/open?id=0Bze55lezLJhIbHc4cWtYblk2dnM
-  #   - name: handout
-  #     url: https://drive.google.com/open?id=0Bze55lezLJhIX1ZaU2JkclJ6LVU
-  #   - name: Notebook HTML
-  #     url: assets/notebooks/15-lec/SQL_Exercise_Part_1.html
-  #   - name: Notebook ipynb
-  #     url: assets/notebooks/15-lec/SQL_Exercise_Part_1.ipynb
-  #   - name: PostgreSQL for Mac
-  #     url: https://postgresapp.com
-  #   - name: PostgreSQL for Windows
-  #     url: https://www.postgresql.org/download/windows/
-  #   - name: PostgreSQL for Linux
-  #     url: http://lmgtfy.com/?q=Install+PostgreSQL+on+Linux
-  #   - name: W3C Tutorial
-  #     url: https://www.w3schools.com/sql/default.asp
-  #   - name: screencast
-  #     url: https://www.youtube.com/watch?v=iOZaohMSijk
-  # assignment: |
-  #   [Lab 7 Released: Bootstrap](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/lab07.zip)
-
-  #   [Homework 4 Released: The Bootstrap](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/hw4.zip)
-
+  links:
+    - name: pptx
+      url: assets/lectures/lec11/11-finish-web-begin-sql_v2.pptx
+    - name: pdf
+      url: assets/lectures/lec11/11-finish-web-begin-sql_v2.pdf
+    - name: handout
+      url: assets/lectures/lec11/11-finish-web-begin-sql_v2-handout.pdf
+    - name: SQL Part 1 (html)
+      url: assets/lectures/lec11/sql_introduction_part1.html
+    - name: Code
+      url: assets/lectures/lec11/code.zip
+    - name: W3C Tutorial
+      url: https://www.w3schools.com/sql/default.asp
+    
+ 
 
 - date: 02/22/2018
   topic: More Advanced SQL
@@ -418,6 +407,12 @@
   #   url: https://drive.google.com/open?id=0Bze55lezLJhId1ZRWmpCeUJjWjg
   # - name: handout
   #   url: https://drive.google.com/open?id=0Bze55lezLJhIVVVQMXVLZ0xSTEk
+  # - name: PostgreSQL for Mac
+  #   url: https://postgresapp.com
+  # - name: PostgreSQL for Windows
+  #   url: https://www.postgresql.org/download/windows/
+  # - name: PostgreSQL for Linux
+  #   url: http://lmgtfy.com/?q=Install+PostgreSQL+on+Linux
   # - name: Notebook HTML
   #   url: assets/notebooks/16-lec/SQL_Exercise_Part_2.html
   # - name: Notebook ipynb
