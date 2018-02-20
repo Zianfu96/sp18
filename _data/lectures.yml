@@ -347,6 +347,10 @@
       url: assets/lectures/lec10/lec10.html
     - name: data
       url: assets/lectures/lec10/data.zip
+    - name: screencast
+      url: https://www.youtube.com/watch?v=Yif8OtnzQwc
+    assignment: |
+      [Vitamin 04 Released](https://goo.gl/forms/Pb7iIdPBgGBUzvgx2)
 
   # links:
   #   - name: pptx
@@ -367,9 +371,6 @@
   #   [Project 1 Released: Twitter Analysis](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/proj1.zip)
 
   #   [Lab 4 Released: Plotting, smoothing, transformation](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/lab04.zip)
-
-
-
 
 
 - date: 02/20/2018
