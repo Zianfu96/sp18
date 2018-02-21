@@ -1,5 +1,5 @@
 username,host,dbname
-student@data100-sp-prod-db,data100-sp-prod-db.postgres.database.azure.com,postgres
-student@data100-sp-prod-db,data100-sp-prod-db.postgres.database.azure.com,postgres
-student@data100-sp-prod-db,data100-sp-prod-db.postgres.database.azure.com,postgres
+student,data100sp18-prod-db1.westus2.cloudapp.azure.com,data100
+student,data100sp18-prod-db2.westus2.cloudapp.azure.com,data100
+
 
