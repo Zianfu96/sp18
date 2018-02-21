@@ -94,6 +94,7 @@ While we are working to make this class widely accessible we currently require t
   </div>
 </section>
 
+
 ## Teaching Assistants
 
 <section class="staff">
@@ -258,6 +259,20 @@ While we are working to make this class widely accessible we currently require t
     </address>
   </div>
 <section class="staff">
-
-
 </section>
+
+## Undergraduate Research Opportunities
+
+Berkeley is an amazing place to learn about and participate in research.  We strongly encourage students to look for research opportunities as well as opportunities to get involved in building the tools used by data scientists around the world.  The following is a list of research and development opportunities:
+
+1. Professor Gonzalez is often looking for undergraduates to get involved in his many projects.  If you are interested in getting involved stop by office hours and [complete this google form.](https://goo.gl/forms/aWk5acQsw56BvbRj1)
+1. The Berkeley Institute for Data science has many opportunities for research.  Attend [these events](https://bids.berkeley.edu/events) and learn more about what people are doing and ask them how you can help.
+1. Take a look at some of the issues on big open source projects and consider getting involved in addressing them:  
+  * [Jupyter](https://github.com/jupyter/jupyter/issues)
+  * [nbgrader](https://github.com/jupyter/nbgrader/issues)
+  * [sklearn](https://github.com/scikit-learn/scikit-learn/issues)
+
+
+
+
+
