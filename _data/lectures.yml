@@ -313,6 +313,7 @@
     - name: screencast
       url: https://www.youtube.com/watch?v=IRwxbEpD2qU
   assignment: |
+    [Lab 4 Released: Plotting, Smoothing, Transformation](https://github.com/DS-100/sp18/raw/master/zipfiles/lab04.zip)   
     [Project 1 Released: Twitter Analysis](https://github.com/DS-100/sp18/raw/master/zipfiles/proj1.zip)
 
   # Furthermore, when the data are embedded in an HTML document, we can use XPath to locate and extract it. XPath is a powerful tool developed for locating elements and content in an XML document (much better than regular expressions!). We cover the basics of XPath, which is enough to write complex expressions.
@@ -392,6 +393,8 @@
       url: assets/lectures/lec11/code.zip
     - name: W3C Tutorial
       url: https://www.w3schools.com/sql/default.asp
+    - name: screencast
+      url: https://www.youtube.com/watch?v=7XYvLa_luDg
     
  
 
