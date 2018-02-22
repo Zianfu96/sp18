@@ -400,31 +400,31 @@
 
 - date: 02/22/2018
   topic: More Advanced SQL
-  lecturer: Gonzalez
+  lecturer: Biye Jiang (Guest Lecturer)
   description: |
     In this lecture we review more advanced SQL queries including joins and common table expressions and discuss how combine computation in a database with python.
 
-  # links:
-  # - name: pptx
-  #   url: https://drive.google.com/open?id=0Bze55lezLJhIVko4WXNGbHVIOUE
-  # - name: pdf
-  #   url: https://drive.google.com/open?id=0Bze55lezLJhId1ZRWmpCeUJjWjg
-  # - name: handout
-  #   url: https://drive.google.com/open?id=0Bze55lezLJhIVVVQMXVLZ0xSTEk
-  # - name: PostgreSQL for Mac
-  #   url: https://postgresapp.com
-  # - name: PostgreSQL for Windows
-  #   url: https://www.postgresql.org/download/windows/
-  # - name: PostgreSQL for Linux
-  #   url: http://lmgtfy.com/?q=Install+PostgreSQL+on+Linux
-  # - name: Notebook HTML
-  #   url: assets/notebooks/16-lec/SQL_Exercise_Part_2.html
-  # - name: Notebook ipynb
-  #   url: assets/notebooks/16-lec/SQL_Exercise_Part_2.ipynb
-  # - name: The FEC SQL Data (Students and Sailors inlcuded)
-  #   url: https://drive.google.com/open?id=0Bze55lezLJhIMi1PMUVxZjhyRkU
-  # - name: Loading the SQL Dump
-  #   url: https://www.postgresql.org/docs/9.1/static/backup-dump.html
+   links:
+   - name: pptx
+     url: assets/lectures/lec12/12-databases-part2.pptx
+   - name: pdf
+     url: assets/lectures/lec12/12-databases-part2.pdf
+   - name: handout
+     url: assets/lectures/lec12/12-databases-part2-hangout.pdf
+   - name: PostgreSQL for Mac
+     url: https://postgresapp.com
+   - name: PostgreSQL for Windows
+     url: https://www.postgresql.org/download/windows/
+   - name: PostgreSQL for Linux
+     url: http://lmgtfy.com/?q=Install+PostgreSQL+on+Linux
+   - name: Notebook HTML
+     url: assets/lectures/lec12/sql_introduction_part2.html
+   - name: Notebook ipynb
+     url: assets/lectures/lec12/sql_introduction_part2.ipynb
+   #- name: The FEC SQL Data (Students and Sailors inlcuded)
+   #  url: https://drive.google.com/open?id=0Bze55lezLJhIMi1PMUVxZjhyRkU
+   - name: Loading the SQL Dump
+     url: https://www.postgresql.org/docs/9.1/static/backup-dump.html
   # - name: screencast
   #   url: https://www.youtube.com/watch?v=KNRVdz5H3-8
   # assignment: |
