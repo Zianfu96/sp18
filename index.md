@@ -258,7 +258,6 @@ While we are working to make this class widely accessible we currently require t
       <a href="mailto:weiwzhang@berkeley.edu">weiwzhang@berkeley.edu</a>
     </address>
   </div>
-<section class="staff">
 </section>
 
 ## Undergraduate Research Opportunities
