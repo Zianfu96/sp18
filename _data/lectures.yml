@@ -421,10 +421,12 @@
      url: assets/lectures/lec12/sql_introduction_part2.html
    - name: Notebook ipynb
      url: assets/lectures/lec12/sql_introduction_part2.ipynb
-   #- name: The FEC SQL Data (Students and Sailors inlcuded)
-   #  url: https://drive.google.com/open?id=0Bze55lezLJhIMi1PMUVxZjhyRkU
    - name: Loading the SQL Dump
      url: https://www.postgresql.org/docs/9.1/static/backup-dump.html
+
+
+   #- name: The FEC SQL Data (Students and Sailors inlcuded)
+   #  url: https://drive.google.com/open?id=0Bze55lezLJhIMi1PMUVxZjhyRkU
   # - name: screencast
   #   url: https://www.youtube.com/watch?v=KNRVdz5H3-8
   # assignment: |
