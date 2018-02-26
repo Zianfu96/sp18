@@ -1,5 +1,10 @@
 # This file contains the course announcements in reverse chronological order.
 # Note that only the most recent (topmost) announcement is rendered.
+- date: 2/26/2018
+  text: |
+    - [Project 1](https://github.com/DS-100/sp18/raw/master/zipfiles/proj1.zip) released. It is due Tuesday, Feb 27th at 11:59PM.
+    - [Vitamin 5](https://goo.gl/forms/WJFLW8GGrGXSmfHo1) released. It is due Tuesday, Feb 27th at 11:59PM.
+    - [Lab 6](https://github.com/DS-100/sp18/raw/master/zipfiles/lab06.zip) released. It is due Monday, Feb 26th at 11:59PM.
 - date: 2/14/2018
   text: |
     - [Project 1](https://github.com/DS-100/sp18/raw/master/zipfiles/proj1.zip) released. It is due Tuesday, Feb 27th at 11:59PM.

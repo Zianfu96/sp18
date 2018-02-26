@@ -39,6 +39,8 @@ description: "Homework, Projects, Vitamins, Labs, Discussions"
 
 ## Labs
 
+[Lab 6: Regular Expressions, SQL](https://github.com/DS-100/sp18/raw/master/zipfiles/lab06.zip)
+
 [Lab 4: Plotting, Smoothing, Transformation](https://github.com/DS-100/sp18/raw/master/zipfiles/lab04.zip) 
 
 [Lab 3: Plotting](https://github.com/DS-100/sp18/raw/master/zipfiles/lab03.zip) 
