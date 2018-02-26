@@ -119,7 +119,7 @@
      - name: screencast
        url: https://www.youtube.com/watch?v=isMWogw-3RA
   assignment: |
-    [Vitamin 01 Released](https://goo.gl/forms/ps7OJXLi6Tiv38eB3)
+    [Vitamin 1 Released](https://goo.gl/forms/ps7OJXLi6Tiv38eB3)
 
 
 - date: 1/30/2018
@@ -178,7 +178,7 @@
       url: https://www.youtube.com/watch?v=tpsso5AeghM
 
   assignment: |
-    [Vitamin 02 Released](https://goo.gl/forms/jeh0jMEVNi9Wafdo1)
+    [Vitamin 2 Released](https://goo.gl/forms/jeh0jMEVNi9Wafdo1)
 
   # links:
 
@@ -282,7 +282,7 @@
       url: https://www.youtube.com/watch?v=mLXI4u2JXSA
 
   assignment: |
-    [Vitamin 03 Released](https://goo.gl/forms/8iZGvuq9phTY9lFH3)
+    [Vitamin 3 Released](https://goo.gl/forms/8iZGvuq9phTY9lFH3)
 
 
 
@@ -351,7 +351,7 @@
     - name: screencast
       url: https://www.youtube.com/watch?v=Yif8OtnzQwc
   assignment: |
-    [Vitamin 04 Released](https://goo.gl/forms/Pb7iIdPBgGBUzvgx2)
+    [Vitamin 4 Released](https://goo.gl/forms/Pb7iIdPBgGBUzvgx2)
 
   # links:
   #   - name: pptx
@@ -425,7 +425,8 @@
       url: https://www.postgresql.org/docs/9.1/static/backup-dump.html
     - name: screencast
       url: https://www.youtube.com/watch?v=0rA3dH2k_zM
-
+  assignment : |
+    [Vitamin 5 Released](https://goo.gl/forms/WJFLW8GGrGXSmfHo1)
 
    #- name: The FEC SQL Data (Students and Sailors inlcuded)
    #  url: https://drive.google.com/open?id=0Bze55lezLJhIMi1PMUVxZjhyRkU
@@ -455,8 +456,8 @@
   #     url: assets/notebooks/09-lec/Estimation.ipynb
   #   - name: screencast
   #     url: https://www.youtube.com/watch?v=9PMF6R2lIl0
-  # assignment: |
-  #   [Vitamin 4 Released](https://goo.gl/forms/oQYmB523kyOmuMcb2)
+  assignment: |
+    [Lab 6 Released: Regular Expressions, SQL](https://github.com/DS-100/sp18/raw/master/zipfiles/lab06.zip) 
 
 - date: 03/01/2017
   topic: Gradient Descent for Model Estimation
