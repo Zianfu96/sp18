@@ -450,6 +450,10 @@
   links:
     - name: 13-modeling-and-estimation (PPTX)
       url: assets/lectures/lec13/13-modeling-and-estimation.pptx
+    - name: pdf
+      url: assets/lectures/lec13/13-modeling-and-estimation.pdf
+    - name: handout
+      url: assets/lectures/lec13/13-modeling-and-estimation-handout.pdf
     - name: Estimation notebook (HTML Version)
       url: assets/lectures/lec13/Estimation.html
     - name: convex-functions notebook (HTML Version)
