@@ -2,5 +2,7 @@ username,host,dbname
 student,data100sp18-prod-db1.westus2.cloudapp.azure.com,data100
 student,data100sp18-prod-db2.westus2.cloudapp.azure.com,data100
 student,data100sp18-prod-db3.westus2.cloudapp.azure.com,data100
+student,data100sp18-prod-db4.westus2.cloudapp.azure.com,data100
+student,data100sp18-prod-db5.westus2.cloudapp.azure.com,data100
 
 
