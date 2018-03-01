@@ -426,6 +426,8 @@
       url: assets/lectures/lec12/sql_introduction_part2.ipynb
     - name: Loading the SQL Dump
       url: https://www.postgresql.org/docs/9.1/static/backup-dump.html
+    - name: Piazza Thread
+      url: https://piazza.com/class/jc04z4cze297dy?cid=467
     - name: screencast
       url: https://www.youtube.com/watch?v=0rA3dH2k_zM
   assignment : |
@@ -460,6 +462,9 @@
       url: assets/lectures/lec13/convex-functions.html
     - name: code and data (includes notebooks and scripts as needed)
       url: assets/lectures/lec13/code.zip
+    - name: Piazza Thread
+      url: https://piazza.com/class/jc04z4cze297dy?cid=526
+
   #   - name: screencast
   #     url: https://www.youtube.com/watch?v=9PMF6R2lIl0
 
