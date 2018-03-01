@@ -479,6 +479,8 @@
       url: assets/lectures/lec14/ml-100k.zip
     - name: The Loss Game (be a gradient descender...)
       url: assets/lectures/lec14/loss_game.html
+    - name: Piazza Thread
+      url: https://piazza.com/class/jc04z4cze297dy?cid=577
 
   # links:
   #   - name: pptx
