@@ -30,19 +30,22 @@
 <body>
   
     <h1>The Loss Game</h1>
+    The goal of this game is to move the sliders to minimize the loss.  The loss is depicted by the red rectangle.
+    
     <div id="game">
         <h2> The Loss </h2>
+
         <div id="lossPlot">
             <div id="box">
             </div>
         </div>
 
         <div id="knobs">
-            <h2> Var1 </h2>
+            <h2> Parameter 1 </h2>
             <input type="range" min="1" max="100" value="50" id="var1">
-            <h2> Var2 </h2>
+            <h2> Parameter 2 </h2>
             <input type="range" min="1" max="100" value="50" id="var2">
-            <h2> Var3 </h2>
+            <h2> Parameter 3 </h2>
             <input type="range" min="1" max="100" value="50" id="var3">
         </div>
         <h1 id="winner"></h1>
