@@ -477,7 +477,7 @@
       url: assets/lectures/lec14/Slides.ipynb
     - name: Raw Data 
       url: assets/lectures/lec14/ml-100k.zip
-    - name: The Loss Game (Be a gradient descenter)
+    - name: The Loss Game (be a gradient descender...)
       url: assets/lectures/lec14/loss_game.html
 
   # links:
