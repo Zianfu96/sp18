@@ -465,10 +465,19 @@
 
 - date: 03/01/2017
   topic: Gradient Descent for Model Estimation
-  lecturer: Gonzalez
+  lecturer: Jake Soloff
   description: |
-    In this lecture we will continue our development of models within the framework of loss minimization.  In this lecture we will explore how calculus can be used to analytically and numerically minimize loss functions.  We will introduce the widely used gradient descent and stochastic gradient descent algorithms.
-
+    In this lecture we will continue our development of models within the framework of loss minimization.  
+    In particular, we will explore how calculus can be used to analytically and numerically minimize loss functions.  
+    We will introduce the widely used gradient descent algorithm in the context of recommendation systems.
+  links:
+    - name: Lecture Notebook HTML 
+      url: assets/lectures/lec14/lec-14.html
+    - name: Lecture Notebook iPynb
+      url: assets/lectures/lec14/Slides.ipynb
+    - name: Raw Data 
+      url: assets/lectures/lec14/ml-100k.zip
+      
   # links:
   #   - name: pptx
   #     url: https://drive.google.com/open?id=0Bze55lezLJhIRTFiUmpSbXFQdUE
