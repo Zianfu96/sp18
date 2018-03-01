@@ -42,9 +42,11 @@ const current_date = new Date();
 const lectures = document.getElementsByClassName('lecture');
 
 for (var i = 0; i < lectures.length; i++ ) {
-  let lecture = lectures[i]
+  let lecture = lectures[i];
   const { lectureWeek, lectureDate } = lecture.dataset;
-  const lec_date = new Date(lectureDate + ' 23:59:00');
+  const lec_date = new Date(lectureDate + ' 23:59:59');
+
+  // We need to find the first occurance of lecture that pass today's date
   if (current_date <= lec_date) {
     lecture.className += ' lecture--current';
 
