@@ -143,6 +143,8 @@
       url: assets/lectures/lec05/groupby_pivot_and_merge.html
     - name: Python utilities
       url: assets/lectures/lec05/utils.py
+    - name: Piazza Thread
+      url: https://piazza.com/class/jc04z4cze297dy?cid=219
     - name: screencast
       url: https://www.youtube.com/watch?v=-mOqumUU9sM
 
@@ -174,6 +176,8 @@
       url: assets/lectures/lec06/EDA_and_Cleaning.ipynb
     - name: EDA and Data Cleaning Notebook (HTML Version)
       url: assets/lectures/lec06/EDA_and_Cleaning.html
+    - name: Piazza Thread
+      url: https://piazza.com/class/jc04z4cze297dy?cid=254
     - name: screencast
       url: https://www.youtube.com/watch?v=tpsso5AeghM
 
@@ -228,6 +232,8 @@
       url: assets/lectures/lec07/07-matplotlib_beyond_basics.html
     - name: code
       url: assets/lectures/lec07/code.zip
+    - name: Piazza Thread
+      url: https://piazza.com/class/jc04z4cze297dy?cid=319
     - name: screencast
       url: https://www.youtube.com/watch?v=zM-3fezJUms
   #   - name: pptx
@@ -281,6 +287,8 @@
       url: assets/lectures/lec08/08-matplotlib-common-plots.html
     - name: data
       url: assets/lectures/lec08/data.zip
+    - name: Piazza Thread
+      url: https://piazza.com/class/jc04z4cze297dy?cid=355
     - name: screencast
       url: https://www.youtube.com/watch?v=mLXI4u2JXSA
 
@@ -313,6 +321,8 @@
       url: assets/lectures/lec09/basic_http_requests.html
     - name: Calling Twitter REST APIs
       url: assets/lectures/lec09/TwitterAPI_REST_Example.html
+    - name: Piazza Thread
+      url: https://piazza.com/class/jc04z4cze297dy?cid=388
     - name: screencast
       url: https://www.youtube.com/watch?v=IRwxbEpD2qU
   assignment: |
@@ -351,6 +361,8 @@
       url: assets/lectures/lec10/lec10.html
     - name: data
       url: assets/lectures/lec10/data.zip
+    - name: Piazza Thread
+      url: https://piazza.com/class/jc04z4cze297dy?cid=423
     - name: screencast
       url: https://www.youtube.com/watch?v=Yif8OtnzQwc
   assignment: |
@@ -396,6 +408,8 @@
       url: assets/lectures/lec11/code.zip
     - name: W3C Tutorial
       url: https://www.w3schools.com/sql/default.asp
+    - name: Piazza Thread
+      url: https://piazza.com/class/jc04z4cze297dy?cid=448
     - name: screencast
       url: https://www.youtube.com/watch?v=7XYvLa_luDg
 
@@ -426,6 +440,8 @@
       url: assets/lectures/lec12/sql_introduction_part2.ipynb
     - name: Loading the SQL Dump
       url: https://www.postgresql.org/docs/9.1/static/backup-dump.html
+    - name: Piazza Thread
+      url: https://piazza.com/class/jc04z4cze297dy?cid=467
     - name: screencast
       url: https://www.youtube.com/watch?v=0rA3dH2k_zM
   assignment : |
@@ -460,6 +476,9 @@
       url: assets/lectures/lec13/convex-functions.html
     - name: code and data (includes notebooks and scripts as needed)
       url: assets/lectures/lec13/code.zip
+    - name: Piazza Thread
+      url: https://piazza.com/class/jc04z4cze297dy?cid=526
+
   #   - name: screencast
   #     url: https://www.youtube.com/watch?v=9PMF6R2lIl0
 
@@ -479,6 +498,8 @@
       url: assets/lectures/lec14/ml-100k.zip
     - name: The Loss Game (be a gradient descender...)
       url: assets/lectures/lec14/loss_game.html
+    - name: Tutorial on Numerical Optimization
+      url: http://www.benfrederickson.com/numerical-optimization/
     - name: Piazza Thread
       url: https://piazza.com/class/jc04z4cze297dy?cid=577
 
