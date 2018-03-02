@@ -96,6 +96,7 @@
        url: https://www.youtube.com/watch?v=hEqNyjEHYYs
   assignment: |
     [Lab 1 Released: Setup and Notebook](https://github.com/DS-100/sp18/raw/master/zipfiles/lab01.zip)
+
     [Homework 1 Released: Setup, Prerequisites, and Image Classification](https://github.com/DS-100/sp18/raw/master/zipfiles/hw1.zip)
 
 
@@ -150,6 +151,7 @@
 
   assignment: |
     [Lab 2 Released: Pandas Overview](https://github.com/DS-100/sp18/raw/master/zipfiles/lab02.zip)
+
     [Homework 2 Released: Food Safety Data Cleaning and EDA](https://github.com/DS-100/sp18/raw/master/zipfiles/hw2.zip)
 
 
@@ -220,6 +222,7 @@
       url: https://www.textbook.ds100.org/ch6/visualization.html
   assignment: |
     [Lab 3 Released: Plotting](https://github.com/DS-100/sp18/raw/master/zipfiles/lab03.zip)
+
     [Homework 3 Released: EDA of Bike Sharing](https://github.com/DS-100/sp18/raw/master/zipfiles/hw3.zip)
 
   #   [Lab 3 Released: Data cleaning and seaborn](https://github.com/DS-100/fa17-materials/raw/master/zipfiles/lab03.zip)
@@ -327,6 +330,7 @@
       url: https://www.youtube.com/watch?v=IRwxbEpD2qU
   assignment: |
     [Lab 4 Released: Plotting, Smoothing, Transformation](https://github.com/DS-100/sp18/raw/master/zipfiles/lab04.zip)
+
     [Project 1 Released: Twitter Analysis](https://github.com/DS-100/sp18/raw/master/zipfiles/proj1.zip)
 
   # Furthermore, when the data are embedded in an HTML document, we can use XPath to locate and extract it. XPath is a powerful tool developed for locating elements and content in an XML document (much better than regular expressions!). We cover the basics of XPath, which is enough to write complex expressions.
@@ -412,7 +416,8 @@
       url: https://piazza.com/class/jc04z4cze297dy?cid=448
     - name: screencast
       url: https://www.youtube.com/watch?v=7XYvLa_luDg
-
+  assignment : |
+    [Lab 6 Released: Regular Expressions, SQL](https://github.com/DS-100/sp18/raw/master/zipfiles/lab06.zip)
 
 
 - date: 2/22/2018
@@ -446,7 +451,6 @@
       url: https://www.youtube.com/watch?v=0rA3dH2k_zM
   assignment : |
     [Vitamin 5 Released](https://goo.gl/forms/WJFLW8GGrGXSmfHo1)
-    [Lab 6 Released: Regular Expressions, SQL](https://github.com/DS-100/sp18/raw/master/zipfiles/lab06.zip)
 
    #- name: The FEC SQL Data (Students and Sailors inlcuded)
    #  url: https://drive.google.com/open?id=0Bze55lezLJhIMi1PMUVxZjhyRkU
@@ -478,9 +482,10 @@
       url: assets/lectures/lec13/code.zip
     - name: Piazza Thread
       url: https://piazza.com/class/jc04z4cze297dy?cid=526
-
-  #   - name: screencast
-  #     url: https://www.youtube.com/watch?v=9PMF6R2lIl0
+    - name: screencast
+      url: https://www.youtube.com/watch?v=oEYJyqFhO-4
+  assignment : |
+    [Homework 4 Released: SQL](https://github.com/DS-100/sp18/raw/master/zipfiles/hw4.zip)
 
 - date: 3/01/2018
   topic: Gradient Descent for Model Estimation
@@ -502,6 +507,8 @@
       url: http://www.benfrederickson.com/numerical-optimization/
     - name: Piazza Thread
       url: https://piazza.com/class/jc04z4cze297dy?cid=577
+    - name: screencast
+      url: https://www.youtube.com/watch?v=YphRY-To4gM
 
   # links:
   #   - name: pptx
