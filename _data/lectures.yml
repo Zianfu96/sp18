@@ -416,8 +416,6 @@
       url: https://piazza.com/class/jc04z4cze297dy?cid=448
     - name: screencast
       url: https://www.youtube.com/watch?v=7XYvLa_luDg
-  assignment : |
-    [Lab 6 Released: Regular Expressions, SQL](https://github.com/DS-100/sp18/raw/master/zipfiles/lab06.zip)
 
 
 - date: 2/22/2018
@@ -485,7 +483,9 @@
     - name: screencast
       url: https://www.youtube.com/watch?v=oEYJyqFhO-4
   assignment : |
-    [Homework 4 Released: SQL](https://github.com/DS-100/sp18/raw/master/zipfiles/hw4.zip)
+    [Lab 6 Released: Regular Expressions, SQL](https://github.com/DS-100/sp18/raw/master/zipfiles/lab06.zip)
+
+    [Homework 4 Released: SQL, FEC Data, and Small Donors](https://github.com/DS-100/sp18/raw/master/zipfiles/hw4.zip)
 
 - date: 3/01/2018
   topic: Gradient Descent for Model Estimation
