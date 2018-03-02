@@ -4,6 +4,8 @@ title: "Materials"
 description: "Lectures, Readings, Discussions, Vitamins, Lab, Homework, Project"
 ---
 
+[TA Section Slides](https://drive.google.com/open?id=1orx-o3R6LIRZqdkKGRQHKRg2lVdjxZ4e)
+
 Date | Lecture | Reading | Discussion & Lab | Vitamin | Homework & Project
 ---- | ------- | ------- | ---------------- | ------- | ------------------ 
 1/16 | Course Overview and Review of Python and Probability <br /> [screencast](https://www.youtube.com/watch?v=7tg0UbslRQY) [slides](http://www.ds100.org/sp18/assets/lectures/lec01/01-intro-to-data100_v2.pdf) [notebook](http://www.ds100.org/sp18/assets/lectures/lec01/Data_Science_Lifecycle.html) | [chapter 1](https://www.textbook.ds100.org/ch1/the_data_science_lifecycle.html) 
