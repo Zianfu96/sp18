@@ -462,6 +462,9 @@
 - date: 2/27/2018
   topic: Modeling and Estimation
   lecturer: Perez
+  textbook:
+    - chapter: 10
+    - url: https://www.textbook.ds100.org/ch10/modeling_estimation.html
   description: |
     How do we pick a number to represent a dataset? A key step in data science is developing models that capture the essential signal in data while providing insight into the phenomena that govern the data and enable effective prediction.  In this lecture we address the fundamental question of how to choose a number and more generally a model that reflects the data.  We will introduce the concept of loss functions and begin to develop basic models.
 
@@ -491,15 +494,15 @@
   topic: Gradient Descent for Model Estimation
   lecturer: Jake Soloff
   description: |
-    In this lecture we will continue our development of models within the framework of loss minimization.  
-    In particular, we will explore how calculus can be used to analytically and numerically minimize loss functions.  
+    In this lecture we will continue our development of models within the framework of loss minimization.
+    In particular, we will explore how calculus can be used to analytically and numerically minimize loss functions.
     We will introduce the widely used gradient descent algorithm in the context of recommendation systems.
   links:
-    - name: Lecture Notebook HTML 
+    - name: Lecture Notebook HTML
       url: assets/lectures/lec14/lec-14.html
     - name: Lecture Notebook iPynb
       url: assets/lectures/lec14/Slides.ipynb
-    - name: Raw Data 
+    - name: Raw Data
       url: assets/lectures/lec14/ml-100k.zip
     - name: The Loss Game (be a gradient descender...)
       url: assets/lectures/lec14/loss_game.html
