@@ -463,7 +463,7 @@
   topic: Modeling and Estimation
   lecturer: Perez
   textbook:
-    - chapter: 10
+    - chapter: Chapter 10
     - url: https://www.textbook.ds100.org/ch10/modeling_estimation.html
   description: |
     How do we pick a number to represent a dataset? A key step in data science is developing models that capture the essential signal in data while providing insight into the phenomena that govern the data and enable effective prediction.  In this lecture we address the fundamental question of how to choose a number and more generally a model that reflects the data.  We will introduce the concept of loss functions and begin to develop basic models.
