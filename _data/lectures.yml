@@ -546,6 +546,14 @@
   lecturer: Gonzalez
   description: |
     This lecture will review key topics from the course that will be covered on the midterm.
+  links:
+    - name: PPTX
+      url: assets/lectures/lec15/15-midterm-review_v2.pptx
+    - name: PDF
+      url: assets/lectures/lec15/15-midterm-review_v2.pdf
+    - name: Handout
+      url: assets/lectures/lec15/15-midterm-review_v2-handout.pdf
+
 
 - date: 3/8/2018
   topic: Midterm
