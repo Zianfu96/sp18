@@ -553,6 +553,10 @@
       url: assets/lectures/lec15/15-midterm-review_v2.pdf
     - name: Handout
       url: assets/lectures/lec15/15-midterm-review_v2-handout.pdf
+    - name: Practice Midterm
+      url: assets/lectures/lec15/DS100_practice_midterm_sp18.pdf
+    - name: Practice Midterm solutions
+      url: assets/lectures/lec15/DS100_practice_midterm_sp18_sol.pdf
 
 
 - date: 3/8/2018
