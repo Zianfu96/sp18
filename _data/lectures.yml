@@ -493,6 +493,9 @@
 - date: 3/01/2018
   topic: Gradient Descent for Model Estimation
   lecturer: Jake Soloff
+  textbook:
+    - chapter: Chapter 11
+      url: https://www.textbook.ds100.org/ch11/gradient_basics.html
   description: |
     In this lecture we will continue our development of models within the framework of loss minimization.
     In particular, we will explore how calculus can be used to analytically and numerically minimize loss functions.
